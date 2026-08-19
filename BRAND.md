@@ -167,11 +167,12 @@ Las redes distribuyen; el sitio conserva y conecta.
 
 - [Sol de las Repúblicas · PNG](assets/sol-de-las-republicas.png)
 - [Avatar de Instagram · PNG](assets/social/instagram-profile-sol.png)
-- [Mapa de Hispanoamérica · WebP](assets/mapa-hispanoamerica.webp)
+- [Mapa canónico de Hispanoamérica · SVG](assets/maps/hispanoamerica.svg)
+- [Metodología y fronteras del mapa](assets/maps/README.md)
 - [Catálogo y procedencia de activos](assets/README.md)
 - [Contexto compacto para GPT](identidad/contexto-marca.md)
 
-Los archivos se encuentran en estado provisional. No existe todavía un paquete vectorial final ni plantillas aprobadas para todos los formatos.
+El mapa cuenta con una fuente vectorial reproducible. El símbolo y las demás aplicaciones continúan en estado provisional; todavía no existe un paquete completo ni plantillas aprobadas para todos los formatos.
 
 ## Identidad abierta y cambios
 

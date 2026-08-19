@@ -1,4 +1,4 @@
-# Investigación · ¿Y si nuestras repúblicas funcionaran mejor juntas?
+# Investigación · No empezamos de cero
 
 **Expediente:** [Issue #56](https://github.com/republicasunidas/republicas-unidas/issues/56)
 

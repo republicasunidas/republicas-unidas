@@ -1,0 +1,86 @@
+{
+  "title": "Hispanoamérica: 18 repúblicas soberanas hispanohablantes",
+  "countries": [
+    {
+      "iso_a3": "ARG",
+      "name": "Argentina"
+    },
+    {
+      "iso_a3": "BOL",
+      "name": "Bolivia"
+    },
+    {
+      "iso_a3": "CHL",
+      "name": "Chile"
+    },
+    {
+      "iso_a3": "COL",
+      "name": "Colombia"
+    },
+    {
+      "iso_a3": "CRI",
+      "name": "Costa Rica"
+    },
+    {
+      "iso_a3": "CUB",
+      "name": "Cuba"
+    },
+    {
+      "iso_a3": "DOM",
+      "name": "República Dominicana"
+    },
+    {
+      "iso_a3": "ECU",
+      "name": "Ecuador"
+    },
+    {
+      "iso_a3": "SLV",
+      "name": "El Salvador"
+    },
+    {
+      "iso_a3": "GTM",
+      "name": "Guatemala"
+    },
+    {
+      "iso_a3": "HND",
+      "name": "Honduras"
+    },
+    {
+      "iso_a3": "MEX",
+      "name": "México"
+    },
+    {
+      "iso_a3": "NIC",
+      "name": "Nicaragua"
+    },
+    {
+      "iso_a3": "PAN",
+      "name": "Panamá"
+    },
+    {
+      "iso_a3": "PRY",
+      "name": "Paraguay"
+    },
+    {
+      "iso_a3": "PER",
+      "name": "Perú"
+    },
+    {
+      "iso_a3": "URY",
+      "name": "Uruguay"
+    },
+    {
+      "iso_a3": "VEN",
+      "name": "Venezuela"
+    }
+  ],
+  "country_count": 18,
+  "source": {
+    "name": "Natural Earth · Admin 0 Countries · 1:50m",
+    "version": "5.1.2",
+    "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_50m_admin_0_countries.geojson",
+    "sha256": "3e458fc036ad0a66411f2c1e6cac49c5d7bfb81cb1123bc513b22511a2b7fdeb",
+    "license": "Public domain"
+  },
+  "boundary_note": "Natural Earth muestra por defecto fronteras de facto. La representación no implica una posición de RRUU sobre disputas territoriales."
+}

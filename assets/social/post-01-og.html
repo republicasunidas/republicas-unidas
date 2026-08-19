@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <style>
+      * { box-sizing: border-box; }
+      html, body { width: 1200px; height: 630px; margin: 0; overflow: hidden; }
+      body { position: relative; display: grid; grid-template-columns: 58% 42%; background: #210d2f; color: #fffdf9; font-family: Arial, Helvetica, sans-serif; }
+      body::before { position: absolute; inset: 0; background: radial-gradient(circle at 76% 35%, rgba(123,76,151,.32), transparent 42%); content: ""; }
+      .copy { position: relative; z-index: 2; display: flex; flex-direction: column; justify-content: center; padding: 48px 24px 40px 52px; }
+      .brand { display: flex; align-items: center; gap: 15px; margin-bottom: 46px; }
+      .brand img { width: 82px; height: 82px; object-fit: contain; }
+      .brand strong { font-size: 27px; line-height: 1.06; letter-spacing: .04em; text-transform: uppercase; }
+      h1 { max-width: 650px; margin: 0; font-size: 70px; line-height: .96; letter-spacing: -.05em; }
+      h1 em { display: block; margin-top: 10px; color: #f3c34f; font-style: normal; }
+      p { margin: 34px 0 0; color: rgba(255,255,255,.76); font-size: 19px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+      .map { position: relative; z-index: 1; display: grid; place-items: center; height: 630px; overflow: hidden; }
+      .map img { width: 510px; max-width: none; transform: translate(-8px, 3px); filter: drop-shadow(0 24px 44px rgba(0,0,0,.28)); }
+      .map::after { position: absolute; left: 0; top: 0; bottom: 0; width: 105px; background: linear-gradient(90deg, #210d2f, transparent); content: ""; }
+    </style>
+  </head>
+  <body>
+    <section class="copy">
+      <div class="brand"><img src="../sol-de-las-republicas.png" alt="" /><strong>Repúblicas<br />Unidas</strong></div>
+      <h1>No empezamos de cero.<em>Falta conectar lo que ya existe.</em></h1>
+      <p>Primera explicación · Hispanoamérica</p>
+    </section>
+    <div class="map"><img src="../maps/hispanoamerica.svg" alt="" /></div>
+  </body>
+</html>

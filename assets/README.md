@@ -17,11 +17,14 @@ Las reglas de uso, voz y composición se encuentran en la [guía fuente de ident
 
 ### Mapa de Hispanoamérica
 
-<img src="./mapa-hispanoamerica.webp" width="520" alt="Mapa estilizado de Hispanoamérica en violeta y dorado">
+<img src="./maps/hispanoamerica.svg" width="520" alt="Mapa de las dieciocho repúblicas soberanas de Hispanoamérica en violeta y dorado">
 
-- **Archivo:** [`mapa-hispanoamerica.webp`](./mapa-hispanoamerica.webp)
-- **Estado:** ilustración vigente
-- **Uso:** proyectos, integración regional y comunicación pública
+- **Archivo canónico:** [`maps/hispanoamerica.svg`](./maps/hispanoamerica.svg)
+- **Metadatos y lista de países:** [`maps/hispanoamerica.json`](./maps/hispanoamerica.json)
+- **Metodología:** [`maps/README.md`](./maps/README.md)
+- **Estado:** mapa vectorial vigente; la ilustración WebP anterior queda retirada y no debe reutilizarse
+- **Uso:** proyectos, integración regional, visualizaciones y comunicación pública
+- **Fuente geográfica:** Natural Earth, Admin 0 Countries 1:50m, versión fijada y verificable
 
 ### Avatar para Instagram
 
@@ -34,11 +37,11 @@ Las reglas de uso, voz y composición se encuentran en la [guía fuente de ident
 
 ### Tarjeta social · publicación 1
 
-<img src="./social/post-01-og.png" width="520" alt="Tarjeta violeta y dorada que pregunta si nuestras repúblicas funcionarían mejor juntas">
+<img src="./social/post-01-og-v2.png" width="520" alt="Tarjeta violeta y dorada que afirma que Hispanoamérica no empieza de cero y muestra el mapa correcto de sus dieciocho repúblicas">
 
-- **Archivo:** [`social/post-01-og.png`](./social/post-01-og.png)
+- **Archivo:** [`social/post-01-og-v2.png`](./social/post-01-og-v2.png)
 - **Ficha de procedencia:** [`social/post-01-og.md`](./social/post-01-og.md)
-- **Estado:** borrador vigente
+- **Estado:** vigente, revisión 0.2
 - **Uso:** Open Graph y enlaces compartidos de la primera publicación editorial
 
 ## Cómo incorporar un recurso

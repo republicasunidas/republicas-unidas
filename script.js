@@ -20,7 +20,7 @@ nav.querySelectorAll("a").forEach((link) => {
 
 const projects = {
   existing: {
-    code: "RRUU-001",
+    code: "Issue #1",
     category: "Integración práctica",
     title: "Lo que ya nos une",
     issue: "https://github.com/republicasunidas/republicas-unidas/issues/1",
@@ -33,7 +33,7 @@ const projects = {
     contribute: "Puedes aportar un acuerdo que ya utilizaste, documentar un obstáculo o revisar que una guía coincida con su fuente oficial."
   },
   "open-data": {
-    code: "RRUU-002",
+    code: "Issue #2",
     category: "Datos públicos",
     title: "Repúblicas Abiertas",
     issue: "https://github.com/republicasunidas/republicas-unidas/issues/2",
@@ -46,7 +46,7 @@ const projects = {
     contribute: "Buscamos analistas, periodistas, desarrolladores y ciudadanos que conozcan portales públicos o problemas que merezcan seguimiento."
   },
   democracy: {
-    code: "RRUU-003",
+    code: "Issue #3",
     category: "Democracia",
     title: "Democracia Informada",
     issue: "https://github.com/republicasunidas/republicas-unidas/issues/3",
@@ -59,7 +59,7 @@ const projects = {
     contribute: "Puedes revisar las reglas, diseñar materiales neutrales, facilitar conversaciones o evaluar herramientas de participación."
   },
   guide: {
-    code: "RRUU-004",
+    code: "Issue #4",
     category: "Tecnología cívica",
     title: "Guía RRUU",
     issue: "https://github.com/republicasunidas/republicas-unidas/issues/4",
@@ -72,7 +72,7 @@ const projects = {
     contribute: "Buscamos personas con experiencia en IA, diseño de servicios, investigación jurídica, documentación y evaluación de fuentes."
   },
   landing: {
-    code: "RRUU-005",
+    code: "Issue #5",
     category: "Infraestructura abierta",
     title: "Landing pública",
     issue: "https://github.com/republicasunidas/republicas-unidas/issues/5",
@@ -83,6 +83,19 @@ const projects = {
     milestone: "Publicar el prototipo en republicasunidas.org y conectar la inscripción con un sistema de consentimiento verificable.",
     update: "El registro público ya utiliza GitHub Issues y la hoja de ruta muestra los proyectos vinculados a cada etapa.",
     contribute: "Puedes revisar claridad, accesibilidad, confianza y experiencia móvil, o proponer cambios de código mediante un pull request."
+  },
+  docs: {
+    code: "Issue #7",
+    category: "Infraestructura abierta",
+    title: "Centro de documentación",
+    issue: "https://github.com/republicasunidas/republicas-unidas/issues/7",
+    stage: "organizar",
+    status: "En ejecución",
+    summary: "Un lugar público y buscable para comprender RRUU, sus reglas, proyectos, decisiones y formas de participar.",
+    problem: "La información fundacional está distribuida entre la landing, archivos e Issues, lo que dificulta que una persona nueva construya un modelo mental coherente.",
+    milestone: "Publicar el centro en /docs/, verificar búsqueda y navegación móvil, y probar su comprensión con participantes externos.",
+    update: "El propósito, la gobernanza, la propuesta de proyectos y la hoja de ruta ya están organizados en una navegación común.",
+    contribute: "Puedes señalar términos ambiguos, recorridos difíciles, documentación faltante o proponer correcciones mediante el Issue #7."
   }
 };
 
@@ -144,7 +157,7 @@ const stageContent = {
     title: "Crear la comunidad y sus reglas democráticas.",
     copy: "Publicaremos los principios, formaremos un equipo multinacional y abriremos la plataforma de participación interna.",
     gate: "Una comunidad inicial diversa toma su primera decisión abierta y verificable.",
-    projects: ["democracy", "landing"]
+    projects: ["democracy", "landing", "docs"]
   },
   probar: {
     label: "Etapa 02 · Integración práctica",

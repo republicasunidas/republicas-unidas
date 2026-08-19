@@ -1,5 +1,4 @@
 ---
-codigo: RRUU-004
 estado: revision
 etapa: abrir
 titulo: Guía RRUU

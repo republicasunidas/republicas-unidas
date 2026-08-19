@@ -1,5 +1,4 @@
 ---
-codigo: RRUU-001
 estado: ejecucion
 etapa: probar
 titulo: Lo que ya nos une

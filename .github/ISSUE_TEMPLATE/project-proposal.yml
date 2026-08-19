@@ -41,6 +41,18 @@ body:
     attributes:
       label: Primer experimento posible
       description: ¿Cuál sería el paso más pequeño que permitiría aprender algo útil?
+  - type: dropdown
+    id: expected-scope
+    attributes:
+      label: Alcance esperado
+      description: Esta respuesta ayuda a decidir si debe ser una tarea o una iniciativa con alcance de proyecto.
+      options:
+        - Una mejora o investigación puntual
+        - Varios entregables o participantes
+        - Una iniciativa continua o con mantenimiento
+        - Todavía no lo sé
+    validations:
+      required: true
   - type: checkboxes
     id: principles
     attributes:

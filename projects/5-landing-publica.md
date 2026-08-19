@@ -1,5 +1,4 @@
 ---
-codigo: RRUU-005
 estado: ejecucion
 etapa: organizar
 titulo: Landing pública de RRUU

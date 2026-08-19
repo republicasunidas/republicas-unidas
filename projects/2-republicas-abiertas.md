@@ -1,5 +1,4 @@
 ---
-codigo: RRUU-002
 estado: votacion
 etapa: abrir
 titulo: Repúblicas Abiertas

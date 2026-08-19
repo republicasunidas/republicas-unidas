@@ -1,5 +1,4 @@
 ---
-codigo: RRUU-003
 estado: ejecucion
 etapa: organizar
 titulo: Democracia Informada

@@ -17,6 +17,7 @@ Después visita `http://localhost:8080`.
 - Hero y propuesta de valor.
 - Primera propuesta de logo y bandera.
 - Registro filtrable de proyectos con fichas, actualizaciones, propuestas y votaciones de demostración.
+- Centro de documentación buscable en `/docs/` con propósito, gobernanza, procesos y fuentes públicas.
 - Método de trabajo.
 - Primer laboratorio abierto de integración práctica.
 - Hoja de ruta interactiva.
@@ -49,11 +50,14 @@ Cada proyecto atraviesa seis estados públicos:
 
 La hoja de ruta no es una lista separada: cada proyecto aceptado declara la etapa estratégica a la que contribuye. Las etapas futuras permanecen abiertas hasta que la evidencia de la etapa anterior justifique proyectos nuevos.
 
+El número del Issue es el identificador público de cada expediente. Una iniciativa entra como proyecto en el tablero únicamente cuando es importante o continua, necesita varios hitos o participantes, o debe figurar de manera visible en la hoja de ruta. El proceso completo se documenta en [Cómo contribuir](CONTRIBUTING.md).
+
 ## Participar ahora
 
 - [Proponer un proyecto](https://github.com/republicasunidas/republicas-unidas/issues/new?template=project-proposal.yml)
 - [Ver los expedientes abiertos](https://github.com/republicasunidas/republicas-unidas/issues)
 - [Abrir la hoja de ruta en GitHub Projects](https://github.com/orgs/republicasunidas/projects/2)
+- [Abrir el centro de documentación](docs/)
 - [Leer la gobernanza provisional](GOVERNANCE.md)
 
 ## Código abierto

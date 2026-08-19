@@ -29,3 +29,11 @@ RRUU deberá aprobar públicamente:
 - protección frente a coacción, duplicidad y manipulación automatizada.
 
 Hasta entonces, cualquier interacción del sitio es una demostración sin efecto vinculante.
+
+## Issues, proyectos y decisiones
+
+- Un **Issue** es la unidad mínima de registro público. Puede contener una propuesta, tarea, investigación, reporte o decisión.
+- Un **proyecto** es una iniciativa importante o continua que reúne varias acciones bajo un responsable, hitos y condición de éxito. Mantiene un Issue principal y puede contener sub-issues.
+- Una **decisión** es una pregunta concreta que requiere deliberación y una conclusión registrada. Puede pertenecer a un proyecto sin convertirse en otro proyecto.
+
+El número asignado por GitHub al Issue funciona como identificador público. Solo las iniciativas importantes o continuas entran a GitHub Projects y a la hoja de ruta; el trabajo menor se vincula al proyecto correspondiente.

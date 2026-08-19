@@ -2,6 +2,8 @@
 
 Este directorio es la fuente pública de los recursos visuales de RRUU. Git conserva quién cambió cada archivo, cuándo cambió y qué versión existía en cada momento; este catálogo explica para qué sirve cada recurso sin obligar a recorrer el historial técnico.
 
+Las reglas de uso, voz y composición se encuentran en la [guía fuente de identidad](../BRAND.md) y en la [página pública](https://republicasunidas.org/identidad/).
+
 ## Catálogo vigente
 
 ### Sol de las Repúblicas

@@ -51,6 +51,8 @@ La métrica principal será **contribuyentes activos mensuales**: personas que a
 3. **Alianzas:** actividades concretas con comunidades de código abierto, civic tech, universidades, diáspora y emprendimiento.
 4. **Contribución visible:** tareas pequeñas, encuentros abiertos, documentación y rutas hacia responsabilidad real.
 
+La planificación, publicación y aprendizaje de contenido se gestionan en [Sistema editorial y redes · Issue #12](https://github.com/republicasunidas/republicas-unidas/issues/12) y su [tablero público](https://github.com/orgs/republicasunidas/projects/3).
+
 ## Primer ciclo de 14 días
 
 - [ ] Completar [el correo institucional · Issue #9](https://github.com/republicasunidas/republicas-unidas/issues/9) y activar un formulario con consentimiento.

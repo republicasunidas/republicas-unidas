@@ -96,6 +96,45 @@ const projects = {
     milestone: "Publicar el centro en /docs/, verificar búsqueda y navegación móvil, y probar su comprensión con participantes externos.",
     update: "El propósito, la gobernanza, la propuesta de proyectos y la hoja de ruta ya están organizados en una navegación común.",
     contribute: "Puedes señalar términos ambiguos, recorridos difíciles, documentación faltante o proponer correcciones mediante el Issue #7."
+  },
+  growth: {
+    code: "Issue #6",
+    category: "Comunidad",
+    title: "Crecimiento de comunidad",
+    issue: "https://github.com/republicasunidas/republicas-unidas/issues/6",
+    stage: "organizar",
+    status: "En ejecución",
+    summary: "Encontrar personas afines y ayudarlas a completar una primera contribución útil.",
+    problem: "Una audiencia pasiva no puede investigar, construir, deliberar ni sostener proyectos regionales.",
+    milestone: "Activar la inscripción, completar las primeras entrevistas y formar un círculo fundador multinacional.",
+    update: "El embudo, los límites éticos y el primer ciclo de crecimiento ya están documentados públicamente.",
+    contribute: "Puedes revisar la estrategia, realizar entrevistas, organizar una conversación o proponer una primera acción concreta."
+  },
+  editorial: {
+    code: "Issue #12",
+    category: "Conocimiento abierto",
+    title: "Sistema editorial y redes",
+    issue: "https://github.com/republicasunidas/republicas-unidas/issues/12",
+    stage: "organizar",
+    status: "En ejecución",
+    summary: "Convertir cada publicación social en una referencia verificable, buscable y conectada con el trabajo de RRUU.",
+    problem: "El contenido social desaparece rápidamente y deja poco conocimiento reutilizable o indexable.",
+    milestone: "Crear la biblioteca pública y publicar las primeras dos piezas con página canónica, fuentes y retrospectiva.",
+    update: "El tablero editorial, las líneas de contenido y la plantilla para nuevas piezas ya están disponibles.",
+    contribute: "Puedes proponer una pieza, aportar fuentes, revisar un borrador o ayudar a medir y documentar aprendizajes."
+  },
+  identity: {
+    code: "Issue #13",
+    category: "Identidad abierta",
+    title: "Guía de identidad",
+    issue: "https://github.com/republicasunidas/republicas-unidas/issues/13",
+    stage: "organizar",
+    status: "En ejecución",
+    summary: "Un sistema visual y verbal práctico, reutilizable y abierto a mejora comunitaria.",
+    problem: "Sin una fuente común, colaboradores y herramientas generativas producen resultados inconsistentes.",
+    milestone: "Publicar la guía visual, el contexto para GPT, los activos y el mecanismo de propuestas.",
+    update: "La versión fundacional documenta propósito, voz, símbolo, paleta, tipografía, aplicaciones y niveles de cambio.",
+    contribute: "Puedes detectar un problema de uso, proponer una extensión o evaluar una alternativa con criterios públicos."
   }
 };
 
@@ -157,7 +196,7 @@ const stageContent = {
     title: "Crear la comunidad y sus reglas democráticas.",
     copy: "Publicaremos los principios, formaremos un equipo multinacional y abriremos la plataforma de participación interna.",
     gate: "Una comunidad inicial diversa toma su primera decisión abierta y verificable.",
-    projects: ["democracy", "landing", "docs"]
+    projects: ["democracy", "landing", "docs", "growth", "editorial", "identity"]
   },
   probar: {
     label: "Etapa 02 · Integración práctica",

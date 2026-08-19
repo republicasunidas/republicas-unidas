@@ -1,0 +1,64 @@
+name: Propuesta de identidad
+description: Corregir, extender o replantear una parte de la identidad abierta
+title: "Identidad: "
+labels:
+  - identidad
+body:
+  - type: markdown
+    attributes:
+      value: |
+        La identidad está abierta a mejora, pero una preferencia no se convierte automáticamente en regla. Explica el problema, el caso de uso y cómo evaluar la propuesta.
+  - type: dropdown
+    id: change-level
+    attributes:
+      label: Nivel de cambio
+      options:
+        - Corrección de texto, enlace o accesibilidad
+        - Extensión para un formato o caso de uso nuevo
+        - Cambio fundamental de nombre, símbolo, significado, color o voz
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema observado
+      description: ¿Qué no funciona, para quién y en qué situación concreta?
+    validations:
+      required: true
+  - type: textarea
+    id: current-evidence
+    attributes:
+      label: Evidencia o ejemplos
+      description: Incluye enlaces, capturas accesibles, pruebas de uso o comparaciones verificables.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Cambio propuesto
+      description: Explica la solución y qué parte de la guía o activo modificaría.
+    validations:
+      required: true
+  - type: textarea
+    id: compatibility
+    attributes:
+      label: Compatibilidad y riesgos
+      description: ¿Qué conserva, qué rompe y qué efectos podría tener en accesibilidad, representación regional o activos existentes?
+    validations:
+      required: true
+  - type: textarea
+    id: test
+    attributes:
+      label: Cómo probarlo
+      description: Define casos de uso, personas, países y criterios que permitirían comparar la propuesta con la versión vigente.
+    validations:
+      required: true
+  - type: checkboxes
+    id: commitments
+    attributes:
+      label: Compromisos
+      options:
+        - label: Comprendo que las reacciones indican interés y no constituyen una votación vinculante.
+          required: true
+        - label: Confirmo que puedo compartir los materiales incluidos y que no contienen datos personales sin permiso.
+          required: true

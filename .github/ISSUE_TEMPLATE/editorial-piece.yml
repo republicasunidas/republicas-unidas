@@ -1,0 +1,113 @@
+name: Publicación editorial
+description: Investigar, publicar y aprender de una pieza con página canónica
+title: "Contenido: "
+labels:
+  - contenido
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cada pieza produce una referencia propia con fuentes y una o más adaptaciones sociales. No publiques credenciales, borradores con datos personales ni material sin permiso.
+  - type: input
+    id: working-title
+    attributes:
+      label: Título o pregunta provisional
+      placeholder: ¿Qué significa Hispanoamérica y qué países incluye?
+    validations:
+      required: true
+  - type: dropdown
+    id: editorial-line
+    attributes:
+      label: Línea editorial
+      options:
+        - Lo que ya nos une
+        - Historia de la integración
+        - Hispanoamérica hoy
+        - Datos de integración
+        - Construido en público
+        - Preguntas comunes
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Idea central y utilidad
+      description: ¿Qué pregunta responde y por qué debería importarle a una persona?
+    validations:
+      required: true
+  - type: input
+    id: audience
+    attributes:
+      label: Audiencia principal
+      placeholder: Persona interesada en historia que todavía no conoce las instituciones regionales
+    validations:
+      required: true
+  - type: input
+    id: action
+    attributes:
+      label: Acción principal esperada
+      placeholder: Leer la referencia, aportar una fuente, seguir un proyecto o participar
+    validations:
+      required: true
+  - type: input
+    id: scope
+    attributes:
+      label: Países, periodo y temas
+      placeholder: Hispanoamérica · 1810–1830 · integración e independencia
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Afirmaciones y fuentes
+      description: Enumera las afirmaciones comprobables y enlaza fuentes primarias cuando existan.
+    validations:
+      required: true
+  - type: textarea
+    id: interpretation
+    attributes:
+      label: Hechos, interpretación e incertidumbre
+      description: Separa claramente qué sabemos, qué interpretamos y qué no está resuelto.
+    validations:
+      required: true
+  - type: input
+    id: canonical-url
+    attributes:
+      label: URL canónica prevista
+      placeholder: https://republicasunidas.org/publicaciones/que-es-hispanoamerica/
+    validations:
+      required: true
+  - type: checkboxes
+    id: formats
+    attributes:
+      label: Adaptaciones previstas
+      options:
+        - label: Página canónica
+        - label: Carrusel de Instagram
+        - label: Video o reel
+        - label: Historia
+        - label: Boletín
+        - label: Otro canal documentado
+  - type: textarea
+    id: assets
+    attributes:
+      label: Activos y textos
+      description: Enlaza borradores, imágenes, texto alternativo, pie de foto y llamados a la acción.
+  - type: checkboxes
+    id: review
+    attributes:
+      label: Revisión antes de publicar
+      options:
+        - label: Las afirmaciones importantes tienen fuente y fecha.
+          required: true
+        - label: Hechos, interpretación e incertidumbre están diferenciados.
+          required: true
+        - label: Las imágenes, citas y otros materiales pueden utilizarse legalmente.
+          required: true
+        - label: La pieza es accesible y no expone datos personales sin consentimiento.
+          required: true
+        - label: La página canónica añade valor más allá de la publicación social.
+          required: true
+  - type: textarea
+    id: publication
+    attributes:
+      label: Publicación y aprendizaje
+      description: Después de publicar, registra enlaces, fecha, métricas de 48 horas y 7 días, correcciones y decisión de repetir, modificar, ampliar o cerrar.

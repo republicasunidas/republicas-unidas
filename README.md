@@ -6,6 +6,8 @@ Prototipo estático y responsive para explorar la primera identidad y narrativa 
 
 **Contacto:** [hola@republicasunidas.org](mailto:hola@republicasunidas.org)
 
+**Instagram:** [@republicasunidas](https://www.instagram.com/republicasunidas)
+
 ## Abrir
 
 Abre `index.html` directamente en un navegador o sirve esta carpeta localmente:
@@ -63,6 +65,16 @@ El número del Issue es el identificador público de cada expediente. Una inicia
 - [Abrir la hoja de ruta en GitHub Projects](https://github.com/orgs/republicasunidas/projects/2)
 - [Abrir el centro de documentación](docs/)
 - [Leer la gobernanza provisional](GOVERNANCE.md)
+
+## Canales y publicaciones
+
+- [Registro y reglas de los canales oficiales](SOCIALS.md)
+- [Sistema editorial y archivo de publicaciones](EDITORIAL.md)
+- [Guía fuente de identidad](BRAND.md)
+- [Página pública de identidad](https://republicasunidas.org/identidad/)
+- [Contexto de marca para GPT](identidad/contexto-marca.md)
+- [Tablero público de contenido](https://github.com/orgs/republicasunidas/projects/3)
+- [Expediente del sistema editorial · Issue #12](https://github.com/republicasunidas/republicas-unidas/issues/12)
 
 ## Código abierto
 

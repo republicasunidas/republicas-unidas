@@ -11,6 +11,7 @@
   "editable_source": "carousel.html",
   "caption": "caption.txt",
   "alt_text": "alt-text.txt",
+  "download_package": "pub-001-instagram.zip",
   "slides": [
     "slide-01.png",
     "slide-02.png",

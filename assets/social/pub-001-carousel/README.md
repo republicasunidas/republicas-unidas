@@ -11,6 +11,7 @@ Paquete final para Instagram, revisión 1.0.
 - `caption.txt`: pie de foto listo para copiar.
 - `alt-text.txt`: texto alternativo por lámina.
 - `manifest.json`: orden, dimensiones, revisión y procedencia del paquete.
+- `pub-001-instagram.zip`: descarga única con las seis láminas, pie de foto, textos alternativos y manifiesto.
 
 ## Contenido exacto
 

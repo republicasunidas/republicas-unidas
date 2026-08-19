@@ -51,8 +51,9 @@ La hoja de ruta no es una lista separada: cada proyecto aceptado declara la etap
 
 ## Participar ahora
 
-- [Proponer un proyecto](https://github.com/miguel033097/republicas-unidas/issues/new?template=project-proposal.yml)
-- [Ver los expedientes abiertos](https://github.com/miguel033097/republicas-unidas/issues)
+- [Proponer un proyecto](https://github.com/republicasunidas/republicas-unidas/issues/new?template=project-proposal.yml)
+- [Ver los expedientes abiertos](https://github.com/republicasunidas/republicas-unidas/issues)
+- [Abrir la hoja de ruta en GitHub Projects](https://github.com/orgs/republicasunidas/projects/2)
 - [Leer la gobernanza provisional](GOVERNANCE.md)
 
 ## Código abierto

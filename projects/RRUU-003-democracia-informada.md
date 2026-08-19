@@ -5,7 +5,7 @@ etapa: organizar
 titulo: Democracia Informada
 responsable: por-confirmar
 actualizado: 2026-08-19
-issue: https://github.com/miguel033097/republicas-unidas/issues/3
+issue: https://github.com/republicasunidas/republicas-unidas/issues/3
 ---
 
 # Democracia Informada

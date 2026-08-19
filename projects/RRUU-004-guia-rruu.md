@@ -5,7 +5,7 @@ etapa: abrir
 titulo: Guía RRUU
 responsable: por-confirmar
 actualizado: 2026-08-19
-issue: https://github.com/miguel033097/republicas-unidas/issues/4
+issue: https://github.com/republicasunidas/republicas-unidas/issues/4
 ---
 
 # Guía RRUU

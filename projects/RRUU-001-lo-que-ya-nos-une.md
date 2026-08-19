@@ -5,7 +5,7 @@ etapa: probar
 titulo: Lo que ya nos une
 responsable: por-confirmar
 actualizado: 2026-08-19
-issue: https://github.com/miguel033097/republicas-unidas/issues/1
+issue: https://github.com/republicasunidas/republicas-unidas/issues/1
 ---
 
 # Lo que ya nos une

@@ -23,7 +23,7 @@ const projects = {
     code: "RRUU-001",
     category: "Integración práctica",
     title: "Lo que ya nos une",
-    issue: "https://github.com/miguel033097/republicas-unidas/issues/1",
+    issue: "https://github.com/republicasunidas/republicas-unidas/issues/1",
     stage: "probar",
     status: "En ejecución",
     summary: "Un inventario vivo de acuerdos, derechos y herramientas que ya conectan a Hispanoamérica.",
@@ -36,7 +36,7 @@ const projects = {
     code: "RRUU-002",
     category: "Datos públicos",
     title: "Repúblicas Abiertas",
-    issue: "https://github.com/miguel033097/republicas-unidas/issues/2",
+    issue: "https://github.com/republicasunidas/republicas-unidas/issues/2",
     stage: "abrir",
     status: "Votación abierta",
     summary: "Datos gubernamentales convertidos en herramientas comprensibles para la vigilancia y participación ciudadana.",
@@ -49,7 +49,7 @@ const projects = {
     code: "RRUU-003",
     category: "Democracia",
     title: "Democracia Informada",
-    issue: "https://github.com/miguel033097/republicas-unidas/issues/3",
+    issue: "https://github.com/republicasunidas/republicas-unidas/issues/3",
     stage: "organizar",
     status: "En ejecución",
     summary: "Un sistema interno para proponer, aprender, deliberar, decidir y supervisar colectivamente.",
@@ -62,7 +62,7 @@ const projects = {
     code: "RRUU-004",
     category: "Tecnología cívica",
     title: "Guía RRUU",
-    issue: "https://github.com/miguel033097/republicas-unidas/issues/4",
+    issue: "https://github.com/republicasunidas/republicas-unidas/issues/4",
     stage: "abrir",
     status: "En revisión",
     summary: "Un asistente regional que responde con fuentes oficiales, lenguaje sencillo y límites claramente explicados.",
@@ -70,6 +70,19 @@ const projects = {
     milestone: "Construir un prototipo limitado a un tema, con respuestas citadas, fecha de verificación y una ruta de corrección humana.",
     update: "La idea permanece abierta mientras definimos el primer caso de uso y las condiciones de seguridad, privacidad y mantenimiento.",
     contribute: "Buscamos personas con experiencia en IA, diseño de servicios, investigación jurídica, documentación y evaluación de fuentes."
+  },
+  landing: {
+    code: "RRUU-005",
+    category: "Infraestructura abierta",
+    title: "Landing pública",
+    issue: "https://github.com/republicasunidas/republicas-unidas/issues/5",
+    stage: "organizar",
+    status: "En ejecución",
+    summary: "El punto de entrada público para entender RRUU, seguir sus proyectos y participar en el trabajo abierto.",
+    problem: "Sin un lugar común, la visión puede parecer abstracta y el trabajo queda disperso entre documentos, conversaciones y plataformas.",
+    milestone: "Publicar el prototipo en republicasunidas.org y conectar la inscripción con un sistema de consentimiento verificable.",
+    update: "El registro público ya utiliza GitHub Issues y la hoja de ruta muestra los proyectos vinculados a cada etapa.",
+    contribute: "Puedes revisar claridad, accesibilidad, confianza y experiencia móvil, o proponer cambios de código mediante un pull request."
   }
 };
 
@@ -131,7 +144,7 @@ const stageContent = {
     title: "Crear la comunidad y sus reglas democráticas.",
     copy: "Publicaremos los principios, formaremos un equipo multinacional y abriremos la plataforma de participación interna.",
     gate: "Una comunidad inicial diversa toma su primera decisión abierta y verificable.",
-    projects: ["democracy"]
+    projects: ["democracy", "landing"]
   },
   probar: {
     label: "Etapa 02 · Integración práctica",

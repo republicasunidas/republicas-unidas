@@ -5,7 +5,7 @@ etapa: abrir
 titulo: Repúblicas Abiertas
 responsable: por-confirmar
 actualizado: 2026-08-19
-issue: https://github.com/miguel033097/republicas-unidas/issues/2
+issue: https://github.com/republicasunidas/republicas-unidas/issues/2
 ---
 
 # Repúblicas Abiertas

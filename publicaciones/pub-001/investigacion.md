@@ -12,7 +12,7 @@ Esta matriz distingue hechos comprobables, síntesis editoriales y preguntas tod
 
 ¿Qué instituciones integran hoy a los países de Hispanoamérica, qué han conseguido y por qué sus piezas todavía no forman un sistema común?
 
-La publicación no intenta enumerar toda la cooperación regional. Compara cinco mecanismos que permiten observar tres dimensiones: **amplitud de cobertura**, **profundidad jurídica** y **capacidad de ejecución**.
+La publicación compara cinco mecanismos que permiten observar tres dimensiones: **amplitud de cobertura**, **profundidad jurídica** y **capacidad de ejecución**. Las próximas incorporaciones ampliarán la cartografía hacia otros ámbitos de cooperación regional.
 
 ## Matriz de afirmaciones
 
@@ -26,7 +26,7 @@ La publicación no intenta enumerar toda la cooperación regional. Compara cinco
 | MERCOSUR es intergubernamental; cada Estado Parte tiene un voto y las decisiones se toman por consenso. | Gobernanza | [MERCOSUR, objetivos y funcionamiento](https://www.mercosur.int/acerca-del-mercosur/objetivos-y-funcionamiento). | Muchas normas deben incorporarse al derecho nacional antes de entrar en vigor; existen excepciones descritas por el propio bloque. |
 | Argentina, Bolivia, Brasil, Paraguay y Uruguay son Estados Partes; Venezuela está suspendida. | Composición institucional | [MERCOSUR, qué es](https://www.mercosur.int/acerca-del-mercosur/que-es-el-mercosur). | La página oficial identifica a Bolivia como nuevo Estado Parte y a Venezuela como Estado Parte suspendido. La composición debe revisarse si cambia el estado jurídico. |
 | Nacionales cubiertos por el Acuerdo de Residencia pueden solicitar residencia temporaria de hasta dos años y luego permanente. | Derecho regional | [MERCOSUR, residencia legal](https://www.mercosur.int/logro-14-residencia-legal-en-cualquier-pais-del-bloque). | La cobertura y los trámites deben verificarse país por país y según adhesiones vigentes. |
-| Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua y Panamá son Estados Parte del subsistema de integración económica centroamericana. | Composición institucional | [SIECA, Protocolo de Guatemala](https://www.sieca.int/protocolo-guatemala/). | El SICA más amplio y el subsistema económico no son exactamente lo mismo. Esta pieza compara el subsistema económico. |
+| Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua y Panamá son Estados Parte del subsistema de integración económica centroamericana. | Composición institucional | [SIECA, Protocolo de Guatemala](https://www.sieca.int/protocolo-guatemala/). | El SICA más amplio y el subsistema económico no son exactamente lo mismo. La comparación se concentra en el subsistema económico. |
 | El Protocolo de Guatemala traza una ruta voluntaria, gradual, complementaria y progresiva hacia la Unión Económica Centroamericana. | Objetivo jurídico | [SIECA, Protocolo de Guatemala](https://www.sieca.int/protocolo-guatemala/). | Es una ruta por etapas, no una unión económica ya completada. |
 | Guatemala, Honduras y El Salvador desarrollan un proceso de integración profunda y territorio aduanero único. | Implementación subregional | [SIECA, integración profunda](https://www.sieca.int/iniciativa-subregionales/integracion-profunda-la-sieca/). | El grado de implementación, las excepciones y la experiencia en frontera necesitan indicadores actualizados. |
 | Chile, Colombia, México y Perú forman la Alianza del Pacífico y buscan avanzar hacia la libre circulación de bienes, servicios, capitales y personas. | Composición y objetivo | [Alianza del Pacífico, qué es](https://noticias.alianzapacifico.net/que-es-la-alianza/). | El objetivo progresivo no significa que las cuatro libertades estén completas o sean uniformes. |
@@ -38,12 +38,12 @@ La publicación no intenta enumerar toda la cooperación regional. Compara cinco
 - **“Hay varias capas que se superponen”** resume la pertenencia simultánea de países a mecanismos con objetivos y ámbitos distintos.
 - **“La superposición puede servir de puente o multiplicar reglas”** es una hipótesis que debe medirse mediante casos concretos.
 - **“Primero hacer visible el sistema; después mejorarlo”** es el método elegido por RRUU, no una conclusión obligatoria de las fuentes.
-- **“RRUU como integrador común del ecosistema”** es una propuesta de función: dar visibilidad, ordenar conocimiento y facilitar conexiones sin atribuirse autoridad sobre las instituciones descritas.
+- **“RRUU como integrador común del ecosistema”** es una propuesta de función: dar visibilidad, ordenar conocimiento y facilitar conexiones entre las instituciones, iniciativas, personas y recursos descritos.
 - La comparación entre **amplitud, profundidad y ejecución** es una herramienta de lectura creada para esta publicación.
 
-## Mecanismos todavía por cartografiar
+## Próximas incorporaciones a la cartografía
 
-La selección inicial deja deliberadamente fuera instituciones y acuerdos que merecen investigaciones propias, entre ellos:
+La selección inicial abre investigaciones propias para instituciones y acuerdos como:
 
 - SICA político y sus consejos sectoriales;
 - CELAC y sus planes de acción;
@@ -54,7 +54,7 @@ La selección inicial deja deliberadamente fuera instituciones y acuerdos que me
 - tratados bilaterales y acuerdos entre bloques;
 - redes ciudadanas, académicas, empresariales y de gobiernos locales.
 
-La ausencia de un mecanismo en esta edición no implica una evaluación negativa. Indica que aún no se ha incorporado al mapa.
+Cada nueva incorporación seguirá el mismo proceso de fuentes, relaciones, alcance por país y actualización.
 
 ## Preguntas abiertas
 

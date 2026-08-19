@@ -53,9 +53,23 @@ Para mapas y visualizaciones, también incluye los datos o una tabla accesible, 
 
 La dirección recomendada es:
 
-`/publicaciones/tema-descriptivo/`
+`/publicaciones/pub-001/`
 
-La URL evita fechas y nombres de redes para que permanezca útil al cambiar de formato o actualizarse.
+Cada publicación recibe un identificador institucional inmutable, por ejemplo `PUB-001`. El título, enfoque y fecha pueden cambiar sin modificar la URL. El identificador no depende de una red social, de un título provisional ni del número de un Issue.
+
+Si una dirección ya publicada cambia, la anterior conserva una redirección hacia la canónica. El sitemap, los metadatos sociales y los datos estructurados solo declaran la dirección basada en ID.
+
+## Escribir desde el aporte
+
+La presentación principal explica primero **qué ofrece la pieza, qué compara o qué permite descubrir**. Las exclusiones no deben convertirse en el mensaje central.
+
+- Preferir `Esta guía compara cinco mecanismos` a `Esta guía no cubre todos los mecanismos`.
+- Preferir `Las siguientes ediciones ampliarán el mapa` a `Esta selección no es completa`.
+- Preferir `RRUU conecta conocimiento, personas y proyectos` a definir el movimiento mediante organizaciones con las que no compite.
+- Reservar límites y negaciones para evitar una interpretación materialmente incorrecta, distinguir evidencia de opinión o explicar riesgos legales, éticos y de seguridad.
+- Colocar las cautelas necesarias cerca de la afirmación afectada o en metodología. No usarlas como propuesta de valor, titular o llamada a la acción.
+
+La precisión sigue siendo obligatoria. Una formulación positiva nunca debe ocultar incertidumbre, falta de datos o una comparación inválida.
 
 ### La arquitectura editorial no es el mensaje
 

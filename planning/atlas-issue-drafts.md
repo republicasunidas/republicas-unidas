@@ -1,6 +1,6 @@
 # Borradores de Issues · Atlas abierto de la integración
 
-Estos diez expedientes forman un programa ordenado. El primero es el proyecto principal; los demás son líneas de trabajo vinculadas. Se publicarán como Issues mediante una identidad institucional para no atribuir el proyecto a una persona fundadora.
+Estos once expedientes forman un programa ordenado. El primero es el proyecto principal; los demás son líneas de trabajo vinculadas. Se publicarán como Issues mediante una identidad institucional para no atribuir el proyecto a una persona fundadora.
 
 ## 1. Proyecto principal · Construir el Atlas abierto de la integración
 
@@ -92,23 +92,26 @@ El mapa tiene alternativa tabular accesible, distingue “sin cobertura” de �
 
 ---
 
-## 5. Diseñar el explorador de relaciones
+## 5. Construir el Explorador de integración
 
 ### Objetivo
 
-Navegar del país a la organización, de la organización a sus iniciativas y responsables, y de cada relación a la evidencia que la respalda.
+Permitir que cualquier persona descubra iniciativas por país, tema, organización, persona o brecha, y que llegue desde cada estado de implementación hasta la evidencia que lo respalda.
 
 ### Entregables
 
-- ficha pública por entidad;
-- filtros por país, tema, tipo y vigencia;
+- listado y ficha pública por iniciativa;
+- recorridos por iniciativa, país, tema, organización, persona y brecha;
+- filtros por país, tema, tipo, vigencia y estado de implementación;
+- tabla de implementación país por país;
 - lista explicada de relaciones;
 - vista de grafo opcional para explorar redes complejas;
+- mapa opcional para comparar cobertura y patrones;
 - enlaces permanentes para compartir cada recorrido.
 
 ### Aceptación
 
-La información esencial se entiende sin usar la visualización de grafo. El grafo no crea relaciones inferidas como si fueran hechos.
+Una persona encuentra una iniciativa sin conocer previamente su organismo, compara dos países y abre la fuente de cada estado. La información esencial se entiende sin usar el grafo o el mapa, y ninguna relación inferida se presenta como hecho.
 
 ---
 
@@ -211,3 +214,25 @@ Hacer encontrables los buenos recursos que ya producen organismos, gobiernos, un
 ### Aceptación
 
 Cada ficha explica en lenguaje práctico para qué sirve el recurso y quién lo mantiene. Un enlace roto o desactualizado se identifica sin borrar su valor histórico.
+
+---
+
+## 11. Evaluar la implementación de iniciativas por país
+
+### Objetivo
+
+Construir evidencia comparable sobre cómo una iniciativa pasa del compromiso formal a la operación, el acceso y los resultados en cada país, y convertir brechas verificadas en agendas de investigación o próximos pasos posibles.
+
+### Entregables
+
+- registro estable para cada par `iniciativa + país`;
+- dimensiones de compromiso jurídico, operación, acceso, resultados y transparencia;
+- vocabularios que distingan `sin datos`, `no aplica`, `parcial`, `operativo` y `resultado verificado`;
+- responsables, fechas y fuentes por dimensión;
+- clasificación de brechas y precedentes;
+- piloto con Estatuto Migratorio Andino, Acuerdo sobre Residencia del MERCOSUR e Integración Profunda centroamericana;
+- guía para que especialistas y verificadores por país contribuyan un registro acotado.
+
+### Aceptación
+
+Cada evaluación puede reproducirse desde sus fuentes, muestra desacuerdos o incertidumbre y evita una puntuación total sin metodología validada. Una brecha priorizada identifica población afectada, precedente, actor capaz de intervenir, dependencias y resultado medible.

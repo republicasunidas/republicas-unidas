@@ -47,7 +47,7 @@ La publicación social atrae atención; la página preserva el contexto; el Atla
 
 ### Relaciones iniciales
 
-Usar un vocabulario pequeño y explícito: `integra`, `dirige`, `creó`, `ejecuta`, `financia`, `aplica_en`, `documenta`, `produce`, `continúa`, `reemplaza`, `coopera_con` y `explica`.
+Usar un vocabulario pequeño y explícito: `integra`, `dirige`, `creó`, `ejecuta`, `financia`, `tiene_implementación`, `ocurre_en`, `documenta`, `produce`, `continúa`, `reemplaza`, `coopera_con` y `explica`.
 
 Cada relación necesita fuente, vigencia y fecha de última revisión. No se crea una conexión solo porque parezca probable.
 
@@ -77,10 +77,11 @@ Precios y capacidades revisados el 20 de agosto de 2026. Deben comprobarse nueva
 2. **Capturar:** crear o actualizar organización, iniciativa, persona, recurso o indicador.
 3. **Verificar:** registrar la afirmación exacta, la fuente, la fecha consultada y su nivel de confianza.
 4. **Enlazar:** conectar solo relaciones explícitas que la evidencia permita sostener.
-5. **Visualizar:** elegir mapa, grafo, cronología o tabla según la pregunta; no según la herramienta disponible.
-6. **Explicar:** publicar una página clara que responda una pregunta concreta.
-7. **Adaptar:** convertir el hallazgo principal en carrusel, historia, video o mapa social.
-8. **Aprender:** registrar preguntas, correcciones y nuevos enlaces aportados por la comunidad.
+5. **Evaluar implementación:** registrar por país las dimensiones jurídica, operativa, de acceso, resultados y transparencia.
+6. **Visualizar:** elegir mapa, grafo, cronología o tabla según la pregunta; no según la herramienta disponible.
+7. **Explicar:** publicar una página clara que responda una pregunta concreta.
+8. **Adaptar:** convertir el hallazgo principal en carrusel, historia, video o mapa social.
+9. **Aprender:** registrar preguntas, correcciones y nuevos enlaces aportados por la comunidad.
 
 ## Sistema editorial cartográfico
 
@@ -131,6 +132,7 @@ Una ficha de organización puede así enlazar sus iniciativas, responsables, doc
 ### Semana 1 · Modelo y captura
 
 - crear tablas de entidades, relaciones, fuentes y recursos en Baserow;
+- importar las plantillas portables de [`data/atlas/`](../data/atlas/), incluida implementación por país;
 - publicar un formulario de sugerencias separado del proceso de verificación;
 - importar diez organizaciones, quince iniciativas, diez recursos y veinte relaciones del primer artículo;
 - hacer la primera exportación CSV/JSON al repositorio.
@@ -177,3 +179,5 @@ Todo gasto del Atlas se registra en el futuro libro público con proveedor, fina
 - decisiones editoriales o proyectos nacidos de vacíos visibles en el grafo.
 
 No mediremos éxito por el número bruto de nodos. Un grafo pequeño, comprobable y útil vale más que una red grande de conexiones ambiguas.
+
+El producto navegable y su modelo de evaluación están definidos en [`integration-explorer.md`](integration-explorer.md).

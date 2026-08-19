@@ -2,7 +2,7 @@
 
 **Estado:** guion pendiente de diseño y revisión final. Este archivo no es una publicación ni contiene imágenes terminadas.
 
-**Artículo completo:** https://republicasunidas.org/publicaciones/republicas-que-funcionan-mejor-juntas/
+**Artículo completo:** https://republicasunidas.org/publicaciones/pub-001/
 
 ## Qué debe conseguir
 

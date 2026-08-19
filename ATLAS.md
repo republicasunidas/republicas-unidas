@@ -4,7 +4,7 @@
 
 Construir la capa común que hoy falta entre quienes trabajan por la integración: una base pública, verificable y conectada sobre quién la impulsa, qué se está haciendo, dónde ocurre y cómo se relacionan sus partes. El Atlas permitirá dar visibilidad, investigar, descubrir vacíos, comparar países, facilitar conexiones y convertir conocimiento disperso en proyectos útiles.
 
-RRUU no pretende sustituir a las instituciones existentes ni hablar en su nombre. Comienza como un integrador abierto de conocimiento, personas y proyectos: un registro pequeño y bien documentado que pueda crecer sin perder la procedencia de cada afirmación.
+RRUU comienza como un integrador abierto de conocimiento, personas y proyectos: un registro pequeño y bien documentado que trabaja junto a las instituciones existentes y puede crecer sin perder la procedencia ni la autoría de cada afirmación.
 
 ## Qué registramos
 
@@ -21,17 +21,19 @@ RRUU no pretende sustituir a las instituciones existentes ni hablar en su nombre
 - **Recursos:** sitios, bases de datos, mapas, bibliotecas, archivos y herramientas ya existentes que conviene hacer encontrables.
 - **Indicadores:** observaciones fechadas por país o región, con definición, unidad, método y fuente.
 
-Una fuente, un recurso o un país no compite con los tres tipos principales: permite comprobarlos, ubicarlos, encontrarlos y compararlos.
+Las fuentes, los recursos y los países permiten comprobar, ubicar, encontrar y comparar los tres tipos principales.
 
 ```mermaid
 graph LR
   P["Persona"] -->|dirige o representa| O["Organización"]
   O -->|crea, ejecuta o financia| I["Iniciativa"]
-  I -->|aplica en| C["País"]
+  I -->|tiene implementación| M["Implementación nacional"]
+  M -->|ocurre en| C["País"]
   O -->|tiene miembros en| C
   D["Fuente"] -->|respalda| P
   D -->|respalda| O
   D -->|respalda| I
+  D -->|respalda| M
   N["Indicador fechado"] -->|describe| C
   D -->|documenta| N
   I -->|produce o modifica| N
@@ -39,7 +41,7 @@ graph LR
   R -->|documenta o permite explorar| I
 ```
 
-La fuente no es una nota al pie decorativa: es el camino para comprobar cada nodo y cada relación.
+La fuente es el camino para comprobar cada nodo y cada relación.
 
 ## Las relaciones son datos
 
@@ -48,12 +50,28 @@ Cada enlace debe decir **qué relación existe, durante qué periodo y según qu
 - una persona `dirige` una organización;
 - un país `integra` una organización;
 - una organización `creó`, `ejecuta` o `financia` una iniciativa;
-- una iniciativa `aplica_en` uno o varios países;
+- una iniciativa `tiene_implementación` en uno o varios países;
+- un registro de implementación `ocurre_en` un país y conserva su evidencia;
 - un tratado `fundamenta` una organización o iniciativa;
 - una iniciativa `continúa`, `reemplaza` o `coopera_con` otra;
 - una fuente `respalda` una afirmación o relación.
 
 Las relaciones que cambian con el tiempo necesitan fecha de inicio, fecha de fin cuando corresponda y fecha de última verificación.
+
+## Implementación por país
+
+Una iniciativa puede estar firmada, reglamentada, operativa o accesible de manera distinta en cada país. Por eso, el Atlas representa cada par `iniciativa + país` mediante un registro de implementación con:
+
+- compromiso jurídico;
+- operación administrativa o técnica;
+- acceso real para la población cubierta;
+- resultados publicados;
+- transparencia y datos disponibles;
+- responsables, fechas, fuentes y brechas.
+
+`Sin datos`, `no aplica`, `parcial`, `operativo` y `resultado verificado` se conservan como situaciones distintas. El piloto evita una puntuación total: muestra dimensiones separadas para no crear precisión artificial.
+
+El diseño completo del producto está en [`planning/integration-explorer.md`](planning/integration-explorer.md) y las primeras plantillas portables en [`data/atlas/`](data/atlas/).
 
 ## Reglas de confianza
 

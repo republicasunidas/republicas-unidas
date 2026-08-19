@@ -69,12 +69,17 @@ body:
     validations:
       required: true
   - type: input
+    id: publication-id
+    attributes:
+      label: Identificador permanente
+      description: Lo asigna el equipo al aceptar la pieza. El título puede cambiar; este identificador y su URL permanecen.
+      placeholder: PUB-002
+  - type: input
     id: canonical-url
     attributes:
       label: URL canónica prevista
-      placeholder: https://republicasunidas.org/publicaciones/que-es-hispanoamerica/
-    validations:
-      required: true
+      description: Usa el identificador permanente, no palabras tomadas del título.
+      placeholder: https://republicasunidas.org/publicaciones/pub-002/
   - type: checkboxes
     id: formats
     attributes:

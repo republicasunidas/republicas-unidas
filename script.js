@@ -117,9 +117,9 @@ const projects = {
     issue: "https://github.com/republicasunidas/republicas-unidas/issues/12",
     stage: "organizar",
     status: "En ejecución",
-    summary: "Convertir cada publicación social en una referencia verificable, buscable y conectada con el trabajo de RRUU.",
-    problem: "El contenido social desaparece rápidamente y deja poco conocimiento reutilizable o indexable.",
-    milestone: "Crear la biblioteca pública y publicar las primeras dos piezas con página canónica, fuentes y retrospectiva.",
+    summary: "Convertir cada publicación en una explicación duradera, verificable y conectada con el trabajo de RRUU.",
+    problem: "Una publicación breve puede abrir una pregunta, pero no siempre deja el contexto y las fuentes necesarias para seguir aprendiendo.",
+    milestone: "Crear la biblioteca pública y publicar las primeras dos guías con fuentes, correcciones y aprendizajes.",
     update: "El tablero editorial, las líneas de contenido y la plantilla para nuevas piezas ya están disponibles.",
     contribute: "Puedes proponer una pieza, aportar fuentes, revisar un borrador o ayudar a medir y documentar aprendizajes."
   },

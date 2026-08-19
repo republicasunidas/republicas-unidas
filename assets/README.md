@@ -37,9 +37,9 @@ Las reglas de uso, voz y composición se encuentran en la [guía fuente de ident
 
 ### Tarjeta social · publicación 1
 
-<img src="./social/post-01-og-v2.png" width="520" alt="Tarjeta violeta y dorada que afirma que Hispanoamérica no empieza de cero y muestra el mapa correcto de sus dieciocho repúblicas">
+<img src="./social/post-01-og-v3.png" width="520" alt="Tarjeta violeta y dorada que afirma que Hispanoamérica ya se integra y muestra el mapa correcto de sus dieciocho repúblicas">
 
-- **Archivo:** [`social/post-01-og-v2.png`](./social/post-01-og-v2.png)
+- **Archivo:** [`social/post-01-og-v3.png`](./social/post-01-og-v3.png)
 - **Ficha de procedencia:** [`social/post-01-og.md`](./social/post-01-og.md)
 - **Estado:** vigente, revisión 0.2
 - **Uso:** Open Graph y enlaces compartidos de la primera publicación editorial

@@ -123,7 +123,7 @@ Estas son ideas, no afirmaciones aprobadas. Cada una debe pasar por investigaci�
 
 El orden editorial inicial del [Proyecto 3](https://github.com/orgs/republicasunidas/projects/3) es:
 
-1. [No empezamos de cero: qué ya nos une y qué hará RRUU · Issue #56](https://github.com/republicasunidas/republicas-unidas/issues/56)
+1. [Hispanoamérica ya se integra: qué existe y qué falta conectar · Issue #56](https://github.com/republicasunidas/republicas-unidas/issues/56)
 2. [¿Qué es Hispanoamérica y qué países incluye? · Issue #14](https://github.com/republicasunidas/republicas-unidas/issues/14)
 3. [Hispanoamérica no empieza de cero — ¿qué ya nos une? · Issue #16](https://github.com/republicasunidas/republicas-unidas/issues/16)
 4. [Tratado de Montevideo de 1980 · Issue #29](https://github.com/republicasunidas/republicas-unidas/issues/29)

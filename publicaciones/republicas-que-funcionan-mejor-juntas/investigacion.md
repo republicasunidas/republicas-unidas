@@ -1,39 +1,69 @@
-# Investigación · No empezamos de cero
+# Investigación · Hispanoamérica ya se integra
 
-**Expediente:** [Issue #56](https://github.com/republicasunidas/republicas-unidas/issues/56)
+**Publicación:** [Hispanoamérica ya se integra: qué existe y qué falta conectar](./)
 
-**Estado:** borrador verificable 0.1
+**Estado:** primera edición publicada
 
 **Última comprobación:** 19 de agosto de 2026
 
-Esta matriz separa las afirmaciones comprobables, las interpretaciones de RRUU y los límites de la evidencia utilizada en la primera pieza de lanzamiento.
+Esta matriz distingue hechos comprobables, síntesis editoriales y preguntas todavía abiertas. Es la base verificable de la primera guía de Repúblicas Unidas.
+
+## Qué pregunta responde la publicación
+
+¿Qué instituciones integran hoy a los países de Hispanoamérica, qué han conseguido y por qué sus piezas todavía no forman un sistema común?
+
+La publicación no intenta enumerar toda la cooperación regional. Compara cinco mecanismos que permiten observar tres dimensiones: **amplitud de cobertura**, **profundidad jurídica** y **capacidad de ejecución**.
 
 ## Matriz de afirmaciones
 
-| Afirmación | Tipo | Fuente y ubicación | Límite o decisión editorial |
+| Afirmación | Tipo | Fuente principal | Límite o decisión editorial |
 | --- | --- | --- | --- |
-| El gráfico regional de Latinobarómetro muestra 81% a favor de la integración con otros países de América Latina en 2024. | Dato de encuesta | [Informe 2024](https://www.latinobarometro.org/documents/latinobarometro-informe-2024.pdf), gráfico «A favor o en contra…», página impresa 108. | El texto narrativo contiguo usa 83%. Se adopta 81% porque aparece en el gráfico directamente asociado a la pregunta y se registra la discrepancia. No se interpreta como apoyo a una federación. |
-| La participación del comercio intrarregional en el comercio total de América Latina fue 13,7% en el primer semestre de 2024, frente a 14,6% en 2023. | Dato calculado por organismo regional | [BID, Trade and Integration Monitor 2024](https://publications.iadb.org/publications/english/document/Trade-and-Integration-Monitor-2024-Bucking-the-Trend-The-Potential-of-Knowledge-Based-Services.pdf), resumen y tabla 5. | La medida corresponde a América Latina y no exactamente a las dieciocho repúblicas hispanohablantes. No demuestra por sí sola que aumentar el comercio produzca bienestar. |
-| El Tratado de Montevideo de 1980 fijó como objetivo de largo plazo el establecimiento gradual y progresivo de un mercado común latinoamericano. | Norma constitutiva | [Texto del Tratado](https://www2.aladi.org/nsfaladi/juridica.nsf/tratadoweb/tm80147), artículo 1; [contexto oficial](https://www.aladi.org/normativa-institucional/tratado-de-montevideo-de-1980/). | ALADI incluye a Brasil y no coincide con el ámbito de RRUU. La existencia del objetivo no prueba su realización. |
-| El Estatuto Migratorio Andino regula circulación y residencia para ciudadanos de Bolivia, Colombia, Ecuador y Perú. | Norma comunitaria | [CAN, Decisión 878](https://www.comunidadandina.org/DocOficialesFiles/Gacetas/Gaceta%204239.pdf), artículos 1–3 y 35. | Debe distinguirse el derecho comunitario de la experiencia administrativa concreta. No cubre las dieciocho repúblicas. |
-| El Estatuto contempla ingreso como turista con documento nacional válido, residencia temporal de hasta dos años y residencia permanente. | Norma comunitaria | Decisión 878, artículo 1, numerales viii, xix y xx. | Aplican condiciones de la norma y controles nacionales legítimos; no equivale a libre circulación irrestricta. |
-| El convenio regional de reconocimiento de estudios de 2019 entró en vigor el 23 de octubre de 2022. | Tratado internacional | [UNESCO, ficha y texto del Convenio](https://www.unesco.org/es/legal-affairs/regional-convention-recognition-studies-diplomas-and-degrees-higher-education-latin-america-and). | Firma y condición de Estado Parte no son lo mismo. El reconocimiento se aplica conforme a legislación, autoridades y requisitos nacionales. |
-| MERCOSUR cuenta con un acuerdo de residencia que contempla residencia temporal de hasta dos años para nacionales cubiertos. | Acuerdo regional | [IPPDH MERCOSUR, manual con el texto del acuerdo](https://www.ippdh.mercosur.int/wp-content/uploads/2017/06/Manual-Derechos-humanos-de-personas-migrantes_para-web.pdf), sección sobre el Acuerdo de Residencia, artículo 4. | La cobertura depende de Estados Parte y asociados, adhesiones e implementación nacional. La pieza 5 construirá la matriz vigente país por país. |
+| ALADI reúne trece países: doce de las dieciocho repúblicas hispanoamericanas, además de Brasil. | Composición institucional | [ALADI, preguntas frecuentes](https://www.aladi.org/preguntas-frecuentes/) y [Tratado de Montevideo 1980](https://www.aladi.org/normativa-institucional/tratado-de-montevideo-de-1980/). | ALADI es latinoamericana, no exclusivamente hispanoamericana. No participan Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua ni República Dominicana. |
+| El objetivo de largo plazo del Tratado de Montevideo es un mercado común latinoamericano gradual y progresivo. | Objetivo jurídico | [ALADI, ficha del TM80](https://www2.aladi.org/biblioteca/Publicaciones/ALADI/Secretaria_General/Fichas_ALADI/01_TM80.pdf). | La existencia del objetivo no prueba que el mercado común se haya realizado. |
+| Bolivia, Colombia, Ecuador y Perú son los países miembros de la Comunidad Andina. | Composición institucional | [CAN, quiénes somos](https://www.comunidadandina.org/quienes-somos/). | La CAN también enumera países asociados y observadores; no se presentan como miembros. |
+| El ordenamiento jurídico comunitario andino es supranacional, obligatorio y vigente en sus cuatro países miembros. | Característica jurídica | [CAN, normativa andina](https://www.comunidadandina.org/normativa-andina/gacetas/166/). | La aplicación administrativa concreta debe comprobarse por tema y país. |
+| La Decisión 878 regula circulación y residencia para nacionales de los cuatro países andinos. | Norma comunitaria | [CAN, Decisión 878](https://www.comunidadandina.org/DocOficialesFiles/Gacetas/Gaceta%204239.pdf). | No equivale a libre circulación irrestricta y no cubre las dieciocho repúblicas. |
+| MERCOSUR es intergubernamental; cada Estado Parte tiene un voto y las decisiones se toman por consenso. | Gobernanza | [MERCOSUR, objetivos y funcionamiento](https://www.mercosur.int/acerca-del-mercosur/objetivos-y-funcionamiento). | Muchas normas deben incorporarse al derecho nacional antes de entrar en vigor; existen excepciones descritas por el propio bloque. |
+| Argentina, Bolivia, Brasil, Paraguay y Uruguay son Estados Partes; Venezuela está suspendida. | Composición institucional | [MERCOSUR, qué es](https://www.mercosur.int/acerca-del-mercosur/que-es-el-mercosur). | La página oficial identifica a Bolivia como nuevo Estado Parte y a Venezuela como Estado Parte suspendido. La composición debe revisarse si cambia el estado jurídico. |
+| Nacionales cubiertos por el Acuerdo de Residencia pueden solicitar residencia temporaria de hasta dos años y luego permanente. | Derecho regional | [MERCOSUR, residencia legal](https://www.mercosur.int/logro-14-residencia-legal-en-cualquier-pais-del-bloque). | La cobertura y los trámites deben verificarse país por país y según adhesiones vigentes. |
+| Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua y Panamá son Estados Parte del subsistema de integración económica centroamericana. | Composición institucional | [SIECA, Protocolo de Guatemala](https://www.sieca.int/protocolo-guatemala/). | El SICA más amplio y el subsistema económico no son exactamente lo mismo. Esta pieza compara el subsistema económico. |
+| El Protocolo de Guatemala traza una ruta voluntaria, gradual, complementaria y progresiva hacia la Unión Económica Centroamericana. | Objetivo jurídico | [SIECA, Protocolo de Guatemala](https://www.sieca.int/protocolo-guatemala/). | Es una ruta por etapas, no una unión económica ya completada. |
+| Guatemala, Honduras y El Salvador desarrollan un proceso de integración profunda y territorio aduanero único. | Implementación subregional | [SIECA, integración profunda](https://www.sieca.int/iniciativa-subregionales/integracion-profunda-la-sieca/). | El grado de implementación, las excepciones y la experiencia en frontera necesitan indicadores actualizados. |
+| Chile, Colombia, México y Perú forman la Alianza del Pacífico y buscan avanzar hacia la libre circulación de bienes, servicios, capitales y personas. | Composición y objetivo | [Alianza del Pacífico, qué es](https://noticias.alianzapacifico.net/que-es-la-alianza/). | El objetivo progresivo no significa que las cuatro libertades estén completas o sean uniformes. |
+| El gráfico de Latinobarómetro muestra 81% a favor de la integración con otros países de América Latina en 2024. | Dato de encuesta | [Latinobarómetro, Informe 2024](https://www.latinobarometro.org/documents/latinobarometro-informe-2024.pdf), gráfico de la página impresa 108. | El texto narrativo próximo usa 83%. Se adopta 81% porque es el valor del gráfico directamente asociado a la pregunta. No se interpreta como apoyo a una federación. |
+| La participación del comercio intrarregional en el comercio total de América Latina fue 13,7% en el primer semestre de 2024, frente a 14,6% en 2023. | Dato económico | [BID, Monitor de Comercio e Integración 2024](https://publications.iadb.org/publications/english/document/Trade-and-Integration-Monitor-2024-Bucking-the-Trend-The-Potential-of-Knowledge-Based-Services.pdf), tabla 5. | Corresponde a América Latina y no exactamente a las dieciocho repúblicas. No demuestra por sí sola que aumentar el comercio produzca bienestar. |
 
-## Interpretaciones identificadas como tales
+## Síntesis editoriales, no hechos independientes
 
-- **“La aspiración existe; la arquitectura sigue fragmentada”** sintetiza el apoyo declarado, la coexistencia de esquemas con coberturas distintas y el bajo comercio intrarregional. No es una cita de las fuentes.
-- **“La unidad útil se demuestra”** es un principio de método de RRUU.
-- La secuencia `elegir → mapear → construir → probar → decidir` es una propuesta operativa, no una conclusión obligada por la evidencia.
+- **“Hay varias capas que se superponen”** resume la pertenencia simultánea de países a mecanismos con objetivos y ámbitos distintos.
+- **“La superposición puede servir de puente o multiplicar reglas”** es una hipótesis que debe medirse mediante casos concretos.
+- **“Primero hacer visible el sistema; después mejorarlo”** es el método elegido por RRUU, no una conclusión obligatoria de las fuentes.
+- La comparación entre **amplitud, profundidad y ejecución** es una herramienta de lectura creada para esta publicación.
 
-## Preguntas todavía abiertas
+## Mecanismos todavía por cartografiar
 
-- ¿Qué entiende cada encuestado por integración?
-- ¿Qué derechos regionales funcionan de forma consistente en la práctica?
-- ¿Qué fricciones producen mayor costo cotidiano y cuáles admiten un piloto cívico seguro?
-- ¿Cómo se distribuyen costos y beneficios de cada medida entre repúblicas y grupos sociales?
-- ¿Qué decisiones deben continuar siendo locales o nacionales?
+La selección inicial deja deliberadamente fuera instituciones y acuerdos que merecen investigaciones propias, entre ellos:
+
+- SICA político y sus consejos sectoriales;
+- CELAC y sus planes de acción;
+- PARLATINO, PARLACEN, Parlamento Andino y PARLASUR;
+- SEGIB, OEI y cooperación iberoamericana;
+- SELA y mecanismos financieros regionales;
+- convenios educativos, sanitarios, ambientales, energéticos y de infraestructura;
+- tratados bilaterales y acuerdos entre bloques;
+- redes ciudadanas, académicas, empresariales y de gobiernos locales.
+
+La ausencia de un mecanismo en esta edición no implica una evaluación negativa. Indica que aún no se ha incorporado al mapa.
+
+## Preguntas abiertas
+
+- ¿Qué entiende cada persona encuestada por “integración”?
+- ¿Qué normas regionales tienen efecto directo y cuáles requieren incorporación nacional?
+- ¿Qué derechos funcionan de manera consistente en la práctica?
+- ¿Dónde existen mecanismos duplicados, contradictorios o complementarios?
+- ¿Qué instituciones publican datos comparables de cobertura, presupuesto, implementación y resultados?
+- ¿Qué brecha concreta admite un primer proyecto cívico seguro y medible?
 
 ## Regla de actualización
 
-Una cifra o afirmación normativa se actualizará cuando aparezca una fuente oficial posterior, cambie la vigencia jurídica o una corrección demuestre que la formulación actual induce a error. Toda corrección material se registrará en el Issue #56.
+Una afirmación se revisará cuando cambie la composición o vigencia de un mecanismo, aparezca una fuente oficial posterior o una corrección demuestre que la formulación induce a error. Cada cambio material debe quedar visible en el historial del repositorio.

@@ -1,78 +1,82 @@
-# Adaptación para Instagram · Pieza 1
+# Carrusel de Instagram · Hispanoamérica ya se integra
 
-**Estado:** guion en pausa. No es un carrusel publicado ni contiene todavía las imágenes finales.
+**Estado:** guion pendiente de diseño y revisión final. Este archivo no es una publicación ni contiene imágenes terminadas.
 
-Este archivo es una adaptación prevista para Instagram de la página canónica. Solo debe producirse y publicarse después de aprobar la claridad y exactitud del artículo. La página conserva la investigación completa; el carrusel sirve únicamente para presentar una idea y dirigir al lector hacia ella.
+**Artículo completo:** https://republicasunidas.org/publicaciones/republicas-que-funcionan-mejor-juntas/
 
-**Página canónica:** https://republicasunidas.org/publicaciones/republicas-que-funcionan-mejor-juntas/
+## Qué debe conseguir
 
-**Expediente:** https://github.com/republicasunidas/republicas-unidas/issues/56
+Dar una primera imagen mental clara: no empezamos desde cero ni existe una sola unión regional. Existen mecanismos que se superponen, consiguen cosas distintas y todavía dejan brechas. El carrusel abre esa pregunta; el artículo permite profundizar y comprobarla.
 
-## Carrusel propuesto de cinco láminas
+## Seis láminas
 
-### 1 · Punto de partida
+### 1 · La idea
 
-**No empezamos de cero.**
+**Hispanoamérica ya se integra.**
 
-Hispanoamérica ya tiene tratados, instituciones y algunos derechos regionales.
+El reto es conectar sus piezas.
 
-### 2 · Lo que ya existe
+### 2 · No existe una sola arquitectura
 
-**8 de cada 10 latinoamericanos están a favor de la integración regional.**
+**Hay varias capas superpuestas.**
 
-El gráfico de Latinobarómetro 2024 reporta 81% a favor.
+ALADI, Comunidad Andina, MERCOSUR, integración centroamericana y Alianza del Pacífico no hacen lo mismo ni cubren a los mismos países.
 
-*Eso no significa apoyo automático a una federación ni a cualquier política concreta.*
+### 3 · Algunas capas son amplias
 
-### 3 · Lo que falta conectar
+**ALADI conecta 13 economías.**
 
-**Todavía no forman una experiencia regional comprensible.**
+Permite acuerdos a ritmos diferentes y mantiene como horizonte un mercado común latinoamericano.
 
-Los acuerdos cubren países distintos. Los trámites, requisitos y resultados cambian cuando cruzas de esquema.
+### 4 · Otras son más profundas
 
-### 4 · El trabajo de RRUU
+**La CAN tiene derecho comunitario obligatorio.**
 
-**Mapear, explicar, facilitar y construir.**
+**MERCOSUR reconoce derechos de residencia.**
 
-Empezamos con una fricción concreta, construimos una solución abierta y medimos si sirve antes de ampliar el proyecto.
+**Centroamérica avanza por etapas hacia una unión económica.**
 
-### 5 · Tu experiencia
+### 5 · La brecha
 
-**¿Dónde sientes primero la frontera?**
+**Los avances todavía no forman una experiencia común.**
 
-- Moverte y residir
-- Estudiar y ejercer
-- Comerciar y pagar
-- Entender y vigilar al poder
+Tus derechos, requisitos y rutas cambian según el país, el tema y el mecanismo.
 
-Explora la evidencia y aporta una fuente en **republicasunidas.org/publicaciones/**
+### 6 · La invitación
+
+**Ayúdanos a completar el mapa.**
+
+¿Qué organización, iniciativa o persona deberíamos investigar?
+
+Lee la guía y aporta una fuente en **republicasunidas.org**.
 
 ## Pie de foto
 
-La integración suele presentarse como una decisión enorme: unión o separación, soberanía o centralización, éxito o fracaso.
+Cuando hablamos de integración regional parece que solo hubiera dos opciones: empezar una unión desde cero o aceptar que nunca funcionará.
 
-Pero existe otra forma de empezar.
+La realidad es más interesante.
 
-Ya tenemos tratados, instituciones y algunos derechos regionales. También tenemos sistemas fragmentados, información difícil de usar y experiencias que cambian de un país a otro.
+ALADI, la Comunidad Andina, MERCOSUR, la integración centroamericana y la Alianza del Pacífico ya conectan países con distintos grados de amplitud y profundidad. Algunos mecanismos crean acuerdos comerciales. Otros producen normas comunitarias, derechos de residencia o pasos hacia una unión aduanera.
 
-RRUU comienza por algo comprobable: elegir una fricción compartida, entender qué existe, construir una solución abierta, probarla y publicar lo aprendido.
+El problema es que no cubren a las mismas personas ni forman una experiencia común fácil de entender y usar.
 
-La visión puede ser ambiciosa. El primer paso debe ser concreto.
+Nuestro primer trabajo será mapear esa arquitectura: organizaciones, iniciativas, personas, países, datos y las relaciones entre ellos. Solo después podremos reconocer qué falta y qué solución concreta vale la pena construir.
 
-¿Dónde sientes primero la frontera: al moverte, estudiar, comerciar o entender información pública?
+Esta es una guía inicial, no una lista completa. ¿Qué pieza nos falta?
 
-Fuentes y límites en la página completa. Correcciones y aportes en el Issue #56.
+Fuentes y explicación completa en republicasunidas.org.
 
-#Hispanoamérica #IntegraciónRegional #AméricaLatina #GobiernoAbierto #CódigoAbierto
+#Hispanoamérica #IntegraciónRegional #AméricaLatina #Historia #Geopolítica #DatosAbiertos
 
 ## Texto alternativo
 
-Carrusel violeta y dorado de Repúblicas Unidas. La primera lámina afirma que Hispanoamérica no empieza de cero. La segunda muestra que ocho de cada diez latinoamericanos apoyan la integración regional y aclara que eso no equivale a apoyar una federación. La tercera explica que los acuerdos actuales cubren países y trámites diferentes. La cuarta presenta el trabajo de RRUU: mapear, explicar, facilitar y construir. La quinta pregunta qué fricción fronteriza afecta primero a la persona: movilidad, estudios, comercio o información pública.
+Carrusel violeta, dorado y marfil de Repúblicas Unidas. La primera lámina dice “Hispanoamérica ya se integra. El reto es conectar sus piezas”. Las siguientes explican que ALADI, Comunidad Andina, MERCOSUR, integración centroamericana y Alianza del Pacífico se superponen, tienen alcances distintos y ya han creado acuerdos, normas o derechos. La última invita a aportar organizaciones, iniciativas, personas y fuentes para completar un atlas abierto de la integración.
 
-## Control antes de publicar
+## Antes de diseñar o publicar
 
-- [ ] Comprobar enlaces y cifras contra la página canónica.
-- [ ] Mantener la nota que diferencia integración de federalización.
-- [ ] Exportar en 1080 × 1350 px con zona segura para la interfaz de Instagram.
-- [ ] Añadir subtítulos si se adapta a video.
-- [ ] Registrar URL del post y métricas en el Issue #56.
+- [ ] Verificar nombres, composición y vigencia contra el artículo.
+- [ ] No usar logotipos institucionales sin revisar sus reglas de uso.
+- [ ] Mantener cada lámina legible sin depender del pie de foto.
+- [ ] Exportar en 1080 × 1350 px con zona segura para Instagram.
+- [ ] Añadir el artículo en el enlace del perfil.
+- [ ] Registrar correcciones y aprendizajes después de publicar.

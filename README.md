@@ -76,6 +76,10 @@ El número del Issue es el identificador público de cada expediente. Una inicia
 - [Tablero público de contenido](https://github.com/orgs/republicasunidas/projects/3)
 - [Expediente del sistema editorial · Issue #12](https://github.com/republicasunidas/republicas-unidas/issues/12)
 
+## Atlas abierto de la integración
+
+El [plan del Atlas](ATLAS.md) define cómo registrar y conectar organizaciones, iniciativas y personas con países, fuentes e indicadores. Los [borradores del backlog](planning/atlas-issue-drafts.md) preparan el proyecto principal y sus primeras líneas de trabajo.
+
 ## Código abierto
 
 El código y su documentación se publican bajo la [licencia MIT](LICENSE). Las decisiones, propuestas y cambios permanecen visibles para que otras comunidades puedan auditar, reutilizar y mejorar el trabajo.

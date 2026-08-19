@@ -32,6 +32,15 @@ Las reglas de uso, voz y composición se encuentran en la [guía fuente de ident
 - **Estado:** exportación vigente
 - **Uso:** foto de perfil en redes sociales
 
+### Tarjeta social · publicación 1
+
+<img src="./social/post-01-og.png" width="520" alt="Tarjeta violeta y dorada que pregunta si nuestras repúblicas funcionarían mejor juntas">
+
+- **Archivo:** [`social/post-01-og.png`](./social/post-01-og.png)
+- **Ficha de procedencia:** [`social/post-01-og.md`](./social/post-01-og.md)
+- **Estado:** borrador vigente
+- **Uso:** Open Graph y enlaces compartidos de la primera publicación editorial
+
 ## Cómo incorporar un recurso
 
 1. Guardar el archivo final dentro de `assets/` o de una subcarpeta por canal, como `assets/social/`.

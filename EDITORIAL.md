@@ -118,3 +118,19 @@ La métrica principal no es el alcance bruto. Es que una persona llegue a la ref
 10. Un mapa de instituciones regionales y sus funciones reales.
 
 Estas son ideas, no afirmaciones aprobadas. Cada una debe pasar por investigación y revisión.
+
+## Serie de lanzamiento · primeras nueve piezas
+
+El orden editorial inicial del [Proyecto 3](https://github.com/orgs/republicasunidas/projects/3) es:
+
+1. [¿Y si nuestras repúblicas funcionaran mejor juntas? · Issue #56](https://github.com/republicasunidas/republicas-unidas/issues/56)
+2. [¿Qué es Hispanoamérica y qué países incluye? · Issue #14](https://github.com/republicasunidas/republicas-unidas/issues/14)
+3. [Hispanoamérica no empieza de cero — ¿qué ya nos une? · Issue #16](https://github.com/republicasunidas/republicas-unidas/issues/16)
+4. [Tratado de Montevideo de 1980 · Issue #29](https://github.com/republicasunidas/republicas-unidas/issues/29)
+5. [¿Qué derechos regionales ya puedes usar fuera de tu país? · Issue #57](https://github.com/republicasunidas/republicas-unidas/issues/57)
+6. [¿Por qué un título universitario todavía se detiene en la frontera? · Issue #44](https://github.com/republicasunidas/republicas-unidas/issues/44)
+7. [Benelux como laboratorio de integración · Issue #41](https://github.com/republicasunidas/republicas-unidas/issues/41)
+8. [Cooperación nórdica sin federación · Issue #40](https://github.com/republicasunidas/republicas-unidas/issues/40)
+9. [¿Qué problema regional resolverías primero? · Issue #58](https://github.com/republicasunidas/republicas-unidas/issues/58)
+
+La secuencia empieza con una pregunta amplia, la acota mediante identidad y evidencia institucional, demuestra aplicaciones cotidianas, compara diseños alternativos y termina convirtiendo atención en una contribución concreta.

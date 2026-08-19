@@ -64,6 +64,7 @@ RRUU debe sentirse:
 ### Cómo escribimos
 
 - En español claro y comprensible entre países.
+- Para la persona que quiere entender el tema, no para quien administra el proyecto.
 - Con verbos concretos: encontrar, explicar, conectar, construir, verificar.
 - Con una idea principal por pieza y una acción siguiente visible.
 - Separando hechos, interpretación, propuesta e incertidumbre.
@@ -78,6 +79,7 @@ RRUU debe sentirse:
 - No utilizamos tono partidista, militar, imperial, mesiánico ni de campaña electoral.
 - No hacemos afirmaciones históricas, estadísticas o actuales sin fuente.
 - No llamamos “miembro” a una persona inscrita ni “voto” a una reacción social.
+- No exponemos jerga del flujo interno en una pieza pública. “Página canónica”, “indexable”, “adaptación social”, “expediente”, “entregable” y “ciclo editorial” pertenecen a la documentación de trabajo. Ante el público decimos “artículo completo”, “fuentes”, “proyecto”, “guía”, “cómo aportar” o el beneficio concreto para el lector.
 
 ## Sistema visual
 

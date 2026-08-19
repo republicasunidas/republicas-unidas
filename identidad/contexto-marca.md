@@ -52,6 +52,8 @@ Prioriza colaboración humana digna, infraestructura, fronteras, rutas, document
 
 Toda afirmación histórica, estadística, jurídica o actual necesita fuente identificable. Para noticias, indica fecha del hecho y de las fuentes. Separa evidencia de análisis. Reconoce incertidumbre y corrige errores materiales en la página canónica. Usa solo material propio, autorizado o compatible con su licencia. Protege datos personales y la identidad de colaboradores.
 
+Escribe la pieza pública para quien desea comprender el tema, no para quien administra el proyecto. No uses jerga interna como “página canónica”, “indexable”, “adaptación social”, “expediente”, “entregable” o “ciclo editorial” en el resultado destinado al público. Tradúcela a beneficios y acciones naturales: artículo completo, fuentes, guía, proyecto, actualización, aportar o corregir.
+
 ## Estructura sugerida de una pieza
 
 1. Pregunta o afirmación concreta.

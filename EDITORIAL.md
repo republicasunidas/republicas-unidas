@@ -53,6 +53,15 @@ La dirección recomendada es:
 
 La URL evita fechas y nombres de redes para que permanezca útil al cambiar de formato o actualizarse.
 
+### La arquitectura editorial no es el mensaje
+
+Los nombres del flujo ayudan al equipo a trabajar, pero no deben ocupar el texto público. La persona llega para comprender integración, historia, instituciones o una decisión; no para aprender cómo administramos contenido.
+
+- En documentos internos: `página canónica`, `adaptación social`, `expediente`, `indexación`, `entregable`, `ciclo editorial`.
+- En la publicación: `artículo completo`, `fuentes`, `guía`, `proyecto`, `actualización`, `aportar una corrección`.
+
+Una pieza puede explicar que el conocimiento se conserva y mejora, pero debe hacerlo como un beneficio para el lector. Antes de publicar, elimina toda frase que describa nuestro proceso cuando no ayuda a responder la pregunta central.
+
 ## Flujo de trabajo
 
 | Etapa | Resultado para avanzar |

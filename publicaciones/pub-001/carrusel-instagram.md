@@ -1,6 +1,10 @@
 # Carrusel de Instagram · PUB-001
 
-**Estado:** listo para publicar · revisión 1.0
+**Estado:** publicado · revisión 1.0
+
+**Publicación en Instagram:** https://www.instagram.com/p/DcPSfePCNNl/
+
+**Fecha publicada por Instagram:** 19 de agosto de 2026
 
 **Artículo completo:** https://republicasunidas.org/publicaciones/pub-001/
 
@@ -35,10 +39,11 @@ Dar una imagen mental clara: Hispanoamérica ya cuenta con mecanismos de integra
 - [x] Exportación 4:5 con zona segura para Instagram.
 - [x] Pie de foto y textos alternativos terminados.
 - [x] Página enlazada mediante identificador permanente.
-- [ ] Colocar la guía en el enlace del perfil.
-- [ ] Publicar las seis láminas en orden.
-- [ ] Registrar fecha y métricas a las 48 horas y a los 7 días.
+- [ ] Confirmar la guía en el enlace del perfil.
+- [x] Publicar las seis láminas en orden.
+- [x] Registrar el enlace y la fecha de publicación.
+- [ ] Registrar métricas a las 48 horas y a los 7 días en [`metricas.md`](metricas.md).
 
 ## Criterio de cierre
 
-La producción editorial y visual está terminada. El expediente permanece abierto únicamente para publicación, correcciones y aprendizaje posterior.
+La producción editorial, visual y la publicación están terminadas. El expediente permanece abierto para correcciones y aprendizaje posterior.

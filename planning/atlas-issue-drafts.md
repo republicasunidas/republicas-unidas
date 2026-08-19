@@ -1,6 +1,6 @@
 # Borradores de Issues · Atlas abierto de la integración
 
-Estos seis expedientes forman un programa ordenado. El primero es el proyecto principal; los demás son líneas de trabajo vinculadas. Se publicarán como Issues mediante una identidad institucional para no atribuir el proyecto a una persona fundadora.
+Estos diez expedientes forman un programa ordenado. El primero es el proyecto principal; los demás son líneas de trabajo vinculadas. Se publicarán como Issues mediante una identidad institucional para no atribuir el proyecto a una persona fundadora.
 
 ## 1. Proyecto principal · Construir el Atlas abierto de la integración
 
@@ -129,3 +129,85 @@ Permitir preguntas en lenguaje natural solo después de que el registro tenga pr
 ### Aceptación
 
 La asistencia no responde desde memoria no verificable, no inventa relaciones y permite reproducir la ruta desde la pregunta hasta las fuentes.
+
+---
+
+## 7. Seleccionar y probar la herramienta de grafo
+
+### Objetivo
+
+Comparar Kumu y Graph Commons con el mismo conjunto piloto antes de asumir un costo o dependencia permanente.
+
+### Entregables
+
+- matriz de evaluación: importación, exportación, API, incrustación, accesibilidad, colaboración, marca, costo y portabilidad;
+- grafo piloto en Kumu;
+- prueba equivalente en Graph Commons si el límite gratuito permite una comparación justa;
+- cinco pruebas de uso con preguntas concretas;
+- decisión documentada: mantener, pagar, construir o posponer.
+
+### Aceptación
+
+El conjunto se puede exportar y reconstruir fuera de la herramienta. La decisión se basa en tareas que personas reales lograron completar y no en la apariencia del grafo.
+
+---
+
+## 8. Crear el sistema de captura, revisión y exportación
+
+### Objetivo
+
+Permitir que el equipo registre fuentes y proponga entidades sin editar archivos manualmente, preservando revisión e historial.
+
+### Entregables
+
+- base piloto en Baserow con tablas y campos acordados;
+- formulario público de sugerencias con estado `sin verificar`;
+- vistas de revisión y duplicados;
+- tokens con el menor permiso necesario;
+- exportación periódica CSV/JSON al repositorio;
+- instrucciones de recuperación y migración.
+
+### Aceptación
+
+Una sugerencia pública nunca se publica automáticamente como hecho. El Atlas puede reconstruirse desde los archivos exportados sin depender de una cuenta individual.
+
+---
+
+## 9. Crear el sistema editorial de mapas y visualizaciones
+
+### Objetivo
+
+Convertir datos verificados en piezas claras para redes y en visualizaciones accesibles para el sitio sin rehacer el trabajo en cada canal.
+
+### Entregables
+
+- tres plantillas iniciales en Datawrapper: cobertura, comparación y cambio temporal;
+- especificación visual RRUU para colores, tipografía, fuentes y notas;
+- formato de página con mapa, hallazgo, tabla, método y fuente;
+- formato social `mapa + hallazgo + hasta tres datos + llamada a explorar`;
+- texto alternativo y versión tabular para cada mapa;
+- tres publicaciones piloto.
+
+### Aceptación
+
+Cada visual puede actualizarse desde datos, se entiende en teléfono, muestra fecha y fuente, y conduce a una página indexada con el contexto completo.
+
+---
+
+## 10. Catalogar sitios, bases y recursos existentes
+
+### Objetivo
+
+Hacer encontrables los buenos recursos que ya producen organismos, gobiernos, universidades y comunidades, sin duplicarlos ni atribuirlos a RRUU.
+
+### Entregables
+
+- ficha de recurso con responsable, URL, cobertura, temas, formato, licencia y última comprobación;
+- relaciones entre recursos, organizaciones e iniciativas;
+- primera colección de al menos diez recursos oficiales usados en la investigación inicial;
+- filtros por país, tema y tipo;
+- mecanismo para reportar enlaces rotos o sugerir recursos.
+
+### Aceptación
+
+Cada ficha explica en lenguaje práctico para qué sirve el recurso y quién lo mantiene. Un enlace roto o desactualizado se identifica sin borrar su valor histórico.

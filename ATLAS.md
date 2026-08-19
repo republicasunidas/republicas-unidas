@@ -18,9 +18,10 @@ RRUU no pretende sustituir a las instituciones existentes ni hablar en su nombre
 
 - **Países y territorios:** dimensión geográfica común, usando códigos estables y límites documentados.
 - **Fuentes:** documentos, normas, páginas oficiales, datos y publicaciones que respaldan cada afirmación.
+- **Recursos:** sitios, bases de datos, mapas, bibliotecas, archivos y herramientas ya existentes que conviene hacer encontrables.
 - **Indicadores:** observaciones fechadas por país o región, con definición, unidad, método y fuente.
 
-Una fuente o un país no compite con los tres tipos principales: permite comprobarlos, ubicarlos y compararlos.
+Una fuente, un recurso o un país no compite con los tres tipos principales: permite comprobarlos, ubicarlos, encontrarlos y compararlos.
 
 ```mermaid
 graph LR
@@ -34,6 +35,8 @@ graph LR
   N["Indicador fechado"] -->|describe| C
   D -->|documenta| N
   I -->|produce o modifica| N
+  R["Recurso existente"] -->|es mantenido por| O
+  R -->|documenta o permite explorar| I
 ```
 
 La fuente no es una nota al pie decorativa: es el camino para comprobar cada nodo y cada relación.
@@ -140,3 +143,5 @@ El objetivo del piloto no es alcanzar un número grande. Es demostrar un modelo 
 ## Backlog
 
 Los borradores de trabajo listos para convertirse en Issues están en [`planning/atlas-issue-drafts.md`](planning/atlas-issue-drafts.md).
+
+La arquitectura, comparación de herramientas, sistema de mapas y piloto de 30 días están en [`planning/atlas-implementation.md`](planning/atlas-implementation.md).

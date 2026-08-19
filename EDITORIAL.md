@@ -8,6 +8,8 @@ La [guía de identidad](BRAND.md) define la voz, el sistema visual y el contexto
 
 `Idea → investigación → página canónica → adaptación social → conversación → actualización → aprendizaje`
 
+Cuando una investigación identifica organizaciones, iniciativas, personas, recursos, indicadores o relaciones, también actualiza el [Atlas abierto](ATLAS.md). Así, cada publicación amplía una base común en lugar de quedar aislada.
+
 ### Issue de contenido
 
 Conserva la intención, fuentes, responsable, revisión, adaptaciones, fecha y resultados de una pieza. Se crea con la plantilla **Publicación editorial**. El Issue es el expediente de trabajo, no el artículo público.
@@ -46,6 +48,8 @@ Cada página debe incluir:
 - historial de correcciones materiales;
 - título, descripción, URL canónica y datos estructurados para buscadores;
 - imagen social y texto alternativo cuando corresponda.
+
+Para mapas y visualizaciones, también incluye los datos o una tabla accesible, definiciones, periodo, metodología y enlace a la fuente. El sistema recomendado se documenta en [`planning/atlas-implementation.md`](planning/atlas-implementation.md).
 
 La dirección recomendada es:
 

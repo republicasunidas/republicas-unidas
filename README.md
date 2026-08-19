@@ -2,7 +2,7 @@
 
 Prototipo estático y responsive para explorar la primera identidad y narrativa pública de Repúblicas Unidas.
 
-**Sitio público provisional:** https://republicasunidas.github.io/republicas-unidas/
+**Sitio público:** https://republicasunidas.org/
 
 ## Abrir
 
@@ -37,7 +37,7 @@ Las propuestas y los expedientes de proyecto sí funcionan mediante GitHub Issue
 2. Utilizar Issues y Discussions para propuestas, evidencia, deliberación, responsables y actualizaciones.
 3. Presentar esa información en republicasunidas.org mediante una interfaz accesible para personas no técnicas.
 4. Incorporar identidad verificada y votaciones vinculantes solamente cuando existan reglas aprobadas, participantes recurrentes y capacidad de moderación.
-5. Evaluar Decidim para deliberación, presupuestos participativos y decisiones formales; no usarlo como sustituto del registro operativo.
+5. Evaluar [Decidim](https://decidim.org/) mediante los criterios públicos del [Issue #3](https://github.com/republicasunidas/republicas-unidas/issues/3); no usarlo como sustituto del registro operativo.
 
 ## Modelo de participación
 

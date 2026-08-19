@@ -30,6 +30,16 @@ RRUU deberá aprobar públicamente:
 
 Hasta entonces, cualquier interacción del sitio es una demostración sin efecto vinculante.
 
+## Herramientas y adopción de Decidim
+
+GitHub mantiene por ahora los expedientes, versiones, tareas y seguimiento de ejecución. Sus reacciones son señales públicas y no votos vinculantes.
+
+[Decidim](https://decidim.org/) se evaluará como capa de participación porque permite organizar procesos por fases y combinar propuestas, debates, reuniones, encuestas, resultados y rendición de cuentas. No reemplazará el registro operativo abierto de GitHub.
+
+Antes de abrir un piloto, RRUU deberá haber completado dos consultas manuales, reunir 30 miembros recurrentes de al menos tres repúblicas, contar con dos moderadores y un responsable técnico, aprobar reglas de elegibilidad y privacidad, y asegurar mantenimiento por doce meses. Elections y un censo se evaluarán solamente después de auditar ese piloto.
+
+La especificación viva se mantiene en [Democracia Informada · Issue #3](https://github.com/republicasunidas/republicas-unidas/issues/3).
+
 ## Issues, proyectos y decisiones
 
 - Un **Issue** es la unidad mínima de registro público. Puede contener una propuesta, tarea, investigación, reporte o decisión.

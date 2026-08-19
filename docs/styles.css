@@ -82,6 +82,7 @@ h3 { margin-top: 36px; font-size: 1.35rem; }
 .callout { margin-top: 32px; padding: 23px; border-left: 3px solid var(--gold); background: var(--ivory); }
 .callout strong { color: var(--violet-dark); }
 .callout p { margin: 6px 0 0; color: var(--muted); }
+.callout a { color: var(--violet); font-weight: 800; }
 .source-callout { border-color: var(--violet); }
 details { margin-top: 28px; border: 1px solid var(--line); border-radius: 14px; background: var(--ivory); }
 summary { padding: 17px 19px; color: var(--violet-dark); font-weight: 800; cursor: pointer; }

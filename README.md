@@ -4,6 +4,8 @@ Prototipo estático y responsive para explorar la primera identidad y narrativa 
 
 **Sitio público:** https://republicasunidas.org/
 
+**Contacto:** [hola@republicasunidas.org](mailto:hola@republicasunidas.org)
+
 ## Abrir
 
 Abre `index.html` directamente en un navegador o sirve esta carpeta localmente:

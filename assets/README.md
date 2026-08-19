@@ -41,8 +41,18 @@ Las reglas de uso, voz y composición se encuentran en la [guía fuente de ident
 
 - **Archivo:** [`social/post-01-og-v3.png`](./social/post-01-og-v3.png)
 - **Ficha de procedencia:** [`social/post-01-og.md`](./social/post-01-og.md)
-- **Estado:** vigente, revisión 0.2
+- **Estado:** vigente, revisión 0.3
 - **Uso:** Open Graph y enlaces compartidos de la primera publicación editorial
+
+### Carrusel de Instagram · publicación 1
+
+<img src="./social/pub-001-carousel/slide-01.png" width="360" alt="Primera lámina del carrusel PUB-001: Hispanoamérica ya se integra">
+
+- **Carpeta:** [`social/pub-001-carousel/`](./social/pub-001-carousel/)
+- **Ficha de procedencia:** [`social/pub-001-carousel/README.md`](./social/pub-001-carousel/README.md)
+- **Estado:** listo para publicar, revisión 1.0
+- **Uso:** carrusel de seis láminas 4:5 para Instagram
+- **Incluye:** PNG finales, fuente HTML reproducible, pie de foto y textos alternativos
 
 ## Cómo incorporar un recurso
 

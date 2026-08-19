@@ -1,82 +1,44 @@
-# Carrusel de Instagram · Hispanoamérica ya se integra
+# Carrusel de Instagram · PUB-001
 
-**Estado:** guion pendiente de diseño y revisión final. Este archivo no es una publicación ni contiene imágenes terminadas.
+**Estado:** listo para publicar · revisión 1.0
 
 **Artículo completo:** https://republicasunidas.org/publicaciones/pub-001/
 
-## Qué debe conseguir
+**Paquete final:** [`assets/social/pub-001-carousel/`](../../assets/social/pub-001-carousel/)
 
-Dar una primera imagen mental clara: no empezamos desde cero ni existe una sola unión regional. Existen mecanismos que se superponen, consiguen cosas distintas y todavía dejan brechas. El carrusel abre esa pregunta; el artículo permite profundizar y comprobarla.
+## Objetivo
 
-## Seis láminas
+Dar una imagen mental clara: Hispanoamérica ya cuenta con mecanismos de integración que producen acuerdos, normas, derechos y servicios. El próximo paso de RRUU es hacerlos visibles, comparar su implementación y conectar brechas con precedentes y personas capaces de actuar.
 
-### 1 · La idea
+## Secuencia final
 
-**Hispanoamérica ya se integra.**
+1. **Hispanoamérica ya se integra:** presenta la región y la idea central.
+2. **Cinco caminos existentes:** ALADI, CAN, MERCOSUR, Centroamérica y Alianza del Pacífico.
+3. **Resultados concretos:** movilidad andina, residencia regional y fronteras integradas.
+4. **La pregunta práctica:** cómo se vive la implementación en cada país.
+5. **El primer trabajo de RRUU:** construir el Explorador de integración.
+6. **Participación:** aportar una iniciativa y una fuente.
 
-El reto es conectar sus piezas.
+## Archivos listos
 
-### 2 · No existe una sola arquitectura
+- seis PNG de 1080 × 1350 px;
+- fuente HTML reproducible;
+- pie de foto listo para copiar;
+- texto alternativo por lámina;
+- URL permanente `PUB-001`;
+- mapa y símbolo canónicos.
 
-**Hay varias capas superpuestas.**
+## Antes de publicar
 
-ALADI, Comunidad Andina, MERCOSUR, integración centroamericana y Alianza del Pacífico no hacen lo mismo ni cubren a los mismos países.
+- [x] Nombres, composición y vigencia contrastados con la matriz de investigación.
+- [x] Contenido comprensible sin depender del pie de foto.
+- [x] Exportación 4:5 con zona segura para Instagram.
+- [x] Pie de foto y textos alternativos terminados.
+- [x] Página enlazada mediante identificador permanente.
+- [ ] Colocar la guía en el enlace del perfil.
+- [ ] Publicar las seis láminas en orden.
+- [ ] Registrar fecha y métricas a las 48 horas y a los 7 días.
 
-### 3 · Algunas capas son amplias
+## Criterio de cierre
 
-**ALADI conecta 13 economías.**
-
-Permite acuerdos a ritmos diferentes y mantiene como horizonte un mercado común latinoamericano.
-
-### 4 · Otras son más profundas
-
-**La CAN tiene derecho comunitario obligatorio.**
-
-**MERCOSUR reconoce derechos de residencia.**
-
-**Centroamérica avanza por etapas hacia una unión económica.**
-
-### 5 · La brecha
-
-**Los avances todavía no forman una experiencia común.**
-
-Tus derechos, requisitos y rutas cambian según el país, el tema y el mecanismo.
-
-### 6 · El lugar de RRUU
-
-**Hacer visible. Identificar. Conectar.**
-
-Una capa común para que las iniciativas se conozcan, las personas las encuentren y los proyectos relacionados puedan colaborar.
-
-¿Qué organización, iniciativa o persona deberíamos añadir? Lee la guía y aporta una fuente en **republicasunidas.org**.
-
-## Pie de foto
-
-Cuando hablamos de integración regional parece que solo hubiera dos opciones: empezar una unión desde cero o aceptar que nunca funcionará.
-
-La realidad es más interesante.
-
-ALADI, la Comunidad Andina, MERCOSUR, la integración centroamericana y la Alianza del Pacífico ya conectan países con distintos grados de amplitud y profundidad. Algunos mecanismos crean acuerdos comerciales. Otros producen normas comunitarias, derechos de residencia o pasos hacia una unión aduanera.
-
-El problema es que no cubren a las mismas personas ni forman una experiencia común fácil de entender y usar.
-
-Ahí puede empezar RRUU: no como otra institución que compite con las existentes, sino como una capa común que da visibilidad, identifica y conecta. Nuestro primer trabajo será mapear esa arquitectura —organizaciones, iniciativas, personas, países, datos y relaciones—, acercar la atención hacia lo que ya funciona y revelar qué conexiones o soluciones todavía faltan.
-
-Esta es una guía inicial, no una lista completa. ¿Qué pieza nos falta?
-
-Fuentes y explicación completa en republicasunidas.org.
-
-#Hispanoamérica #IntegraciónRegional #AméricaLatina #Historia #Geopolítica #DatosAbiertos
-
-## Texto alternativo
-
-Carrusel violeta, dorado y marfil de Repúblicas Unidas. La primera lámina dice “Hispanoamérica ya se integra. El reto es conectar sus piezas”. Las siguientes explican que ALADI, Comunidad Andina, MERCOSUR, integración centroamericana y Alianza del Pacífico se superponen, tienen alcances distintos y ya han creado acuerdos, normas o derechos. La última invita a aportar organizaciones, iniciativas, personas y fuentes para completar un atlas abierto de la integración.
-
-## Antes de diseñar o publicar
-
-- [ ] Verificar nombres, composición y vigencia contra el artículo.
-- [ ] No usar logotipos institucionales sin revisar sus reglas de uso.
-- [ ] Mantener cada lámina legible sin depender del pie de foto.
-- [ ] Exportar en 1080 × 1350 px con zona segura para Instagram.
-- [ ] Añadir el artículo en el enlace del perfil.
-- [ ] Registrar correcciones y aprendizajes después de publicar.
+La producción editorial y visual está terminada. El expediente permanece abierto únicamente para publicación, correcciones y aprendizaje posterior.

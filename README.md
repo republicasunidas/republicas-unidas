@@ -55,6 +55,10 @@ La hoja de ruta no es una lista separada: cada proyecto aceptado declara la etap
 - [Ver los expedientes abiertos](https://github.com/miguel033097/republicas-unidas/issues)
 - [Leer la gobernanza provisional](GOVERNANCE.md)
 
+## Código abierto
+
+El código y su documentación se publican bajo la [licencia MIT](LICENSE). Las decisiones, propuestas y cambios permanecen visibles para que otras comunidades puedan auditar, reutilizar y mejorar el trabajo.
+
 ## Dirección de identidad
 
 **Símbolo provisional:** emblema abierto de dieciocho formas.

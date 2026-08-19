@@ -23,6 +23,7 @@ const projects = {
     code: "RRUU-001",
     category: "Integración práctica",
     title: "Lo que ya nos une",
+    issue: "https://github.com/miguel033097/republicas-unidas/issues/1",
     stage: "probar",
     status: "En ejecución",
     summary: "Un inventario vivo de acuerdos, derechos y herramientas que ya conectan a Hispanoamérica.",
@@ -35,6 +36,7 @@ const projects = {
     code: "RRUU-002",
     category: "Datos públicos",
     title: "Repúblicas Abiertas",
+    issue: "https://github.com/miguel033097/republicas-unidas/issues/2",
     stage: "abrir",
     status: "Votación abierta",
     summary: "Datos gubernamentales convertidos en herramientas comprensibles para la vigilancia y participación ciudadana.",
@@ -47,6 +49,7 @@ const projects = {
     code: "RRUU-003",
     category: "Democracia",
     title: "Democracia Informada",
+    issue: "https://github.com/miguel033097/republicas-unidas/issues/3",
     stage: "organizar",
     status: "En ejecución",
     summary: "Un sistema interno para proponer, aprender, deliberar, decidir y supervisar colectivamente.",
@@ -59,6 +62,7 @@ const projects = {
     code: "RRUU-004",
     category: "Tecnología cívica",
     title: "Guía RRUU",
+    issue: "https://github.com/miguel033097/republicas-unidas/issues/4",
     stage: "abrir",
     status: "En revisión",
     summary: "Un asistente regional que responde con fuentes oficiales, lenguaje sencillo y límites claramente explicados.",
@@ -83,39 +87,8 @@ projectFilters.forEach((filter) => {
   });
 });
 
-let supportedProjects = new Set();
-try {
-  supportedProjects = new Set(JSON.parse(localStorage.getItem("ru-supported-projects") || "[]"));
-} catch {
-  supportedProjects = new Set();
-}
-
-const supportButtons = () => document.querySelectorAll("[data-support]");
-const refreshSupportButtons = () => {
-  supportButtons().forEach((button) => {
-    const supported = supportedProjects.has(button.dataset.support);
-    button.classList.toggle("is-supported", supported);
-    button.textContent = supported ? "Prioridad apoyada" : "Apoyar prioridad";
-    button.setAttribute("aria-pressed", String(supported));
-  });
-};
-
-const toggleSupport = (projectId) => {
-  if (supportedProjects.has(projectId)) supportedProjects.delete(projectId);
-  else supportedProjects.add(projectId);
-  try {
-    localStorage.setItem("ru-supported-projects", JSON.stringify([...supportedProjects]));
-  } catch {
-    // The prototype remains usable when local storage is unavailable.
-  }
-  refreshSupportButtons();
-};
-
-supportButtons().forEach((button) => button.addEventListener("click", () => toggleSupport(button.dataset.support)));
-refreshSupportButtons();
-
 const drawer = document.querySelector("[data-project-drawer]");
-const drawerSupport = document.querySelector("[data-drawer-support]");
+const drawerGithub = document.querySelector("[data-drawer-github]");
 let lastProjectTrigger = null;
 
 const openProject = (projectId, trigger) => {
@@ -130,11 +103,10 @@ const openProject = (projectId, trigger) => {
   drawer.querySelector("[data-drawer-milestone]").textContent = project.milestone;
   drawer.querySelector("[data-drawer-update]").textContent = project.update;
   drawer.querySelector("[data-drawer-contribute]").textContent = project.contribute;
-  drawerSupport.dataset.support = projectId;
+  drawerGithub.href = project.issue;
   drawer.classList.add("is-open");
   drawer.setAttribute("aria-hidden", "false");
   document.body.classList.add("drawer-open");
-  refreshSupportButtons();
   drawer.querySelector(".drawer-close").focus();
 };
 
@@ -149,7 +121,6 @@ document.querySelectorAll(".project-open").forEach((button) => {
   button.addEventListener("click", () => openProject(button.dataset.project, button));
 });
 document.querySelectorAll("[data-close-project]").forEach((button) => button.addEventListener("click", closeProject));
-drawerSupport.addEventListener("click", () => toggleSupport(drawerSupport.dataset.support));
 document.addEventListener("keydown", (event) => {
   if (event.key === "Escape" && drawer.classList.contains("is-open")) closeProject();
 });
@@ -236,112 +207,6 @@ roadmapTabs.forEach((tab) => {
     stageGate.textContent = stage.gate;
     renderStageProjects(stage.projects);
   });
-});
-
-const setModalState = (modal, open) => {
-  modal.classList.toggle("is-open", open);
-  modal.setAttribute("aria-hidden", String(!open));
-  document.body.classList.toggle("modal-open", open);
-  if (open) modal.querySelector(".drawer-close").focus();
-};
-
-const proposalModal = document.querySelector("[data-proposal-modal]");
-const proposalForm = document.querySelector("#proposal-form");
-const proposalResult = document.querySelector("[data-proposal-result]");
-const githubProposal = document.querySelector("[data-github-proposal]");
-let proposalMarkdown = "";
-
-document.querySelectorAll("[data-open-proposal]").forEach((button) => {
-  button.addEventListener("click", () => setModalState(proposalModal, true));
-});
-document.querySelectorAll("[data-close-proposal]").forEach((button) => {
-  button.addEventListener("click", () => setModalState(proposalModal, false));
-});
-
-proposalForm.addEventListener("submit", (event) => {
-  event.preventDefault();
-  const formData = new FormData(proposalForm);
-  const draft = {
-    name: String(formData.get("name") || "").trim(),
-    problem: String(formData.get("problem") || "").trim(),
-    country: String(formData.get("country") || "").trim()
-  };
-  if (!draft.name || !draft.problem || !draft.country) return;
-  proposalMarkdown = `# ${draft.name}\n\n## Problema regional\n${draft.problem}\n\n## Lugar observado\n${draft.country}\n\n## Evidencia o condición de éxito\n[Completar antes de revisión]\n`;
-  try {
-    localStorage.setItem("rruu-proposal-draft", JSON.stringify(draft));
-  } catch {
-    // The proposal can still be copied if browser storage is unavailable.
-  }
-  githubProposal.href = `https://github.com/miguel033097/republicas-unidas/issues/new?template=project-proposal.yml&title=${encodeURIComponent(`Propuesta: ${draft.name}`)}`;
-  proposalForm.hidden = true;
-  proposalResult.classList.add("is-visible");
-  proposalResult.querySelector("[data-copy-proposal]").focus();
-});
-
-document.querySelector("[data-copy-proposal]").addEventListener("click", async (event) => {
-  try {
-    await navigator.clipboard.writeText(proposalMarkdown);
-    event.currentTarget.textContent = "Propuesta copiada";
-  } catch {
-    event.currentTarget.textContent = "No se pudo copiar";
-  }
-});
-
-const voteModal = document.querySelector("[data-vote-modal]");
-const voteForm = document.querySelector("#vote-form");
-const voteResult = document.querySelector("[data-vote-result]");
-
-const showSavedVote = () => {
-  let savedVote = "";
-  try {
-    savedVote = localStorage.getItem("rruu-vote-open-data") || "";
-  } catch {
-    savedVote = "";
-  }
-  voteForm.hidden = Boolean(savedVote);
-  voteResult.classList.toggle("is-visible", Boolean(savedVote));
-  if (savedVote) {
-    const input = voteForm.querySelector(`[value="${savedVote}"]`);
-    if (input) input.checked = true;
-  }
-};
-
-document.querySelectorAll("[data-vote-project]").forEach((button) => {
-  button.addEventListener("click", () => {
-    showSavedVote();
-    setModalState(voteModal, true);
-  });
-});
-document.querySelectorAll("[data-close-vote]").forEach((button) => {
-  button.addEventListener("click", () => setModalState(voteModal, false));
-});
-
-voteForm.addEventListener("submit", (event) => {
-  event.preventDefault();
-  const selected = new FormData(voteForm).get("vote");
-  if (!selected) return;
-  try {
-    localStorage.setItem("rruu-vote-open-data", selected);
-  } catch {
-    // The demonstration remains understandable without browser storage.
-  }
-  voteForm.hidden = true;
-  voteResult.classList.add("is-visible");
-  voteResult.querySelector("[data-change-vote]").focus();
-});
-
-document.querySelector("[data-change-vote]").addEventListener("click", () => {
-  voteResult.classList.remove("is-visible");
-  voteForm.hidden = false;
-  const checked = voteForm.querySelector("input:checked");
-  if (checked) checked.focus();
-});
-
-document.addEventListener("keydown", (event) => {
-  if (event.key !== "Escape") return;
-  if (proposalModal.classList.contains("is-open")) setModalState(proposalModal, false);
-  if (voteModal.classList.contains("is-open")) setModalState(voteModal, false);
 });
 
 const observer = new IntersectionObserver(

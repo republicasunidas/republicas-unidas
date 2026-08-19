@@ -5,6 +5,7 @@ etapa: probar
 titulo: Lo que ya nos une
 responsable: por-confirmar
 actualizado: 2026-08-19
+issue: https://github.com/miguel033097/republicas-unidas/issues/1
 ---
 
 # Lo que ya nos une
@@ -20,3 +21,9 @@ Publicar una primera ficha verificable con fuente oficial, instrucciones claras 
 ## Condición de éxito
 
 Una persona completa un proceso regional que antes desconocía o no podía completar.
+
+## Participación provisional
+
+- Reacciona con 👍 al expediente si consideras que debe mantenerse entre las prioridades.
+- Comenta con una fuente, experiencia u obstáculo verificable.
+- El apoyo es público y orientativo; no equivale a una votación vinculante.

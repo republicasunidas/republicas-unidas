@@ -25,13 +25,13 @@ Después visita `http://localhost:8080`.
 - Flujo de participación en dos pasos.
 - Diseño responsive y preferencias de movimiento reducido.
 
-El formulario es únicamente demostrativo: no transmite ni almacena información.
-Los apoyos, propuestas y votos se guardan únicamente en el navegador del visitante y no constituyen decisiones reales.
+El formulario de inscripción es únicamente demostrativo: no transmite ni almacena información.
+Las propuestas y los expedientes de proyecto sí funcionan mediante GitHub Issues. Las reacciones públicas son señales provisionales y no constituyen todavía votos vinculantes.
 
 ## Evolución sugerida para el registro de proyectos
 
 1. Mantener cada proyecto como Markdown/YAML en este repositorio público.
-2. Utilizar Issues y Discussions para cambios, evidencia y revisiones técnicas.
+2. Utilizar Issues y Discussions para propuestas, evidencia, deliberación, responsables y actualizaciones.
 3. Presentar esa información en republicasunidas.org mediante una interfaz accesible para personas no técnicas.
 4. Incorporar identidad verificada y votaciones vinculantes solamente cuando existan reglas aprobadas, participantes recurrentes y capacidad de moderación.
 5. Evaluar Decidim para deliberación, presupuestos participativos y decisiones formales; no usarlo como sustituto del registro operativo.
@@ -48,6 +48,12 @@ Cada proyecto atraviesa seis estados públicos:
 - **Verificar** compara el resultado con la condición de éxito aprobada.
 
 La hoja de ruta no es una lista separada: cada proyecto aceptado declara la etapa estratégica a la que contribuye. Las etapas futuras permanecen abiertas hasta que la evidencia de la etapa anterior justifique proyectos nuevos.
+
+## Participar ahora
+
+- [Proponer un proyecto](https://github.com/miguel033097/republicas-unidas/issues/new?template=project-proposal.yml)
+- [Ver los expedientes abiertos](https://github.com/miguel033097/republicas-unidas/issues)
+- [Leer la gobernanza provisional](GOVERNANCE.md)
 
 ## Dirección de identidad
 

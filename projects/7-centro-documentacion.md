@@ -37,7 +37,7 @@ Una persona nueva puede encontrar en menos de dos minutos qué es RRUU, cómo se
 - [x] Proceso de propuestas documentado.
 - [x] Criterios para crear proyectos documentados.
 - [x] Enlaces a Issues, GitHub Project y fuentes abiertas.
-- [ ] Publicación verificable en el dominio público.
+- [x] Publicación verificable en la URL pública provisional.
 - [ ] Prueba de comprensión con participantes externos.
 
 ## Cómo contribuir

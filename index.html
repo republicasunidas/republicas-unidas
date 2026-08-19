@@ -90,6 +90,96 @@
         </div>
       </section>
 
+      <section id="participa" class="section participate-section">
+        <div class="participate-copy reveal">
+          <p class="eyebrow">Conecta desde el comienzo</p>
+          <h2>El próximo paso puede ser seguir, escribir o construir.</h2>
+          <p class="participate-lede">
+            Elige cómo acercarte hoy. Puedes observar primero y participar más cuando encuentres un
+            proyecto que te importe.
+          </p>
+
+          <div class="participation-channels" aria-label="Canales oficiales de Repúblicas Unidas">
+            <a class="channel-card is-primary" href="https://www.instagram.com/republicasunidas" target="_blank" rel="me noreferrer">
+              <span class="channel-icon" aria-hidden="true">◎</span>
+              <span class="channel-copy">
+                <strong>Instagram</strong>
+                <small>Sigue avances, ideas y convocatorias.</small>
+              </span>
+              <span class="channel-arrow" aria-hidden="true">↗</span>
+            </a>
+
+            <a class="channel-card" href="mailto:hola@republicasunidas.org">
+              <span class="channel-icon" aria-hidden="true">✉</span>
+              <span class="channel-copy">
+                <strong>Contacto institucional</strong>
+                <small>Pregunta, propón o colabora.</small>
+              </span>
+              <span class="channel-arrow" aria-hidden="true">→</span>
+            </a>
+
+            <a class="channel-card" href="https://github.com/republicasunidas/republicas-unidas" target="_blank" rel="noreferrer">
+              <span class="channel-icon channel-icon-code" aria-hidden="true">&lt;/&gt;</span>
+              <span class="channel-copy">
+                <strong>GitHub</strong>
+                <small>Revisa proyectos y construye en abierto.</small>
+              </span>
+              <span class="channel-arrow" aria-hidden="true">↗</span>
+            </a>
+          </div>
+
+          <p class="participation-note">Sin afiliación partidista. Puedes empezar como observador.</p>
+        </div>
+
+        <div class="signup-card reveal">
+          <form id="signup-form" novalidate>
+            <div class="form-step is-active" data-form-step="1">
+              <span class="form-progress">Lista fundadora · Paso 1 de 2</span>
+              <h3>Recibe la próxima convocatoria</h3>
+              <label for="email">Correo electrónico</label>
+              <input id="email" name="email" type="email" autocomplete="email" placeholder="tu@correo.com" required />
+              <label for="country">País</label>
+              <select id="country" name="country" required>
+                <option value="">Selecciona tu país</option>
+                <option>Argentina</option><option>Bolivia</option><option>Chile</option>
+                <option>Colombia</option><option>Costa Rica</option><option>Cuba</option>
+                <option>Ecuador</option><option>El Salvador</option><option>Guatemala</option>
+                <option>Honduras</option><option>México</option><option>Nicaragua</option>
+                <option>Panamá</option><option>Paraguay</option><option>Perú</option>
+                <option>República Dominicana</option><option>Uruguay</option><option>Venezuela</option>
+                <option>Otro</option>
+              </select>
+              <button class="button button-primary button-full" type="submit">Elegir cómo participar</button>
+              <p class="form-privacy">
+                La lista está en construcción: este formulario todavía no envía ni almacena datos.
+                <a href="https://github.com/republicasunidas/republicas-unidas/issues/11" target="_blank" rel="noreferrer">Sigue el desarrollo del sistema de inscripción ↗</a>
+              </p>
+            </div>
+
+            <div class="form-step" data-form-step="2">
+              <span class="form-progress">Paso 2 de 2</span>
+              <h3>¿Cómo te gustaría participar?</h3>
+              <div class="role-options">
+                <label><input type="radio" name="role" value="reportar" /> <span>Reportar un problema</span></label>
+                <label><input type="radio" name="role" value="investigar" /> <span>Investigar soluciones</span></label>
+                <label><input type="radio" name="role" value="datos" /> <span>Analizar datos públicos</span></label>
+                <label><input type="radio" name="role" value="tecnologia" /> <span>Construir tecnología</span></label>
+                <label><input type="radio" name="role" value="organizar" /> <span>Organizar una comunidad</span></label>
+                <label><input type="radio" name="role" value="informarme" checked /> <span>Mantenerme informado</span></label>
+              </div>
+              <button class="button button-primary button-full" type="button" data-finish-signup>Terminar</button>
+            </div>
+
+            <div class="form-step form-success" data-form-step="success" aria-live="polite">
+              <img src="assets/sol-de-las-republicas.png" alt="" />
+              <h3>Gracias por dar el primer paso.</h3>
+              <p>En la versión pública conectaremos este formulario a una lista con consentimiento verificable.</p>
+              <button class="text-link reset-form" type="button">Volver al formulario</button>
+            </div>
+          </form>
+        </div>
+      </section>
+
       <section id="proyectos" class="section projects-section">
         <div class="projects-header reveal">
           <div class="section-intro">
@@ -453,71 +543,6 @@
         </div>
       </section>
 
-      <section id="participa" class="section participate-section">
-        <div class="participate-copy reveal">
-          <p class="eyebrow">Etapa fundadora</p>
-          <h2>No tienes que creer desde hoy en la meta final.</h2>
-          <p>Ayúdanos a construir y evaluar el próximo paso.</p>
-          <p class="contact-line">
-            ¿Tienes una pregunta o una propuesta? Escríbenos a
-            <a href="mailto:hola@republicasunidas.org">hola@republicasunidas.org</a>
-            o sigue el proyecto en
-            <a href="https://www.instagram.com/republicasunidas" target="_blank" rel="me noreferrer">Instagram ↗</a>.
-          </p>
-          <ul class="participant-types">
-            <li>Ciudadanos</li><li>Emprendedores</li><li>Investigadores</li>
-            <li>Desarrolladores</li><li>Periodistas</li><li>Servidores públicos</li>
-          </ul>
-        </div>
-
-        <div class="signup-card reveal">
-          <form id="signup-form" novalidate>
-            <div class="form-step is-active" data-form-step="1">
-              <span class="form-progress">Paso 1 de 2</span>
-              <h3>Participa desde el comienzo</h3>
-              <label for="email">Correo electrónico</label>
-              <input id="email" name="email" type="email" autocomplete="email" placeholder="tu@correo.com" required />
-              <label for="country">País</label>
-              <select id="country" name="country" required>
-                <option value="">Selecciona tu país</option>
-                <option>Argentina</option><option>Bolivia</option><option>Chile</option>
-                <option>Colombia</option><option>Costa Rica</option><option>Cuba</option>
-                <option>Ecuador</option><option>El Salvador</option><option>Guatemala</option>
-                <option>Honduras</option><option>México</option><option>Nicaragua</option>
-                <option>Panamá</option><option>Paraguay</option><option>Perú</option>
-                <option>República Dominicana</option><option>Uruguay</option><option>Venezuela</option>
-                <option>Otro</option>
-              </select>
-              <button class="button button-primary button-full" type="submit">Continuar</button>
-              <p class="form-privacy">
-                Prototipo: este formulario todavía no envía ni almacena datos.
-                <a href="https://github.com/republicasunidas/republicas-unidas/issues/11" target="_blank" rel="noreferrer">Sigue la construcción del sistema de inscripción ↗</a>
-              </p>
-            </div>
-
-            <div class="form-step" data-form-step="2">
-              <span class="form-progress">Paso 2 de 2</span>
-              <h3>¿Cómo te gustaría participar?</h3>
-              <div class="role-options">
-                <label><input type="radio" name="role" value="reportar" /> <span>Reportar un problema</span></label>
-                <label><input type="radio" name="role" value="investigar" /> <span>Investigar soluciones</span></label>
-                <label><input type="radio" name="role" value="datos" /> <span>Analizar datos públicos</span></label>
-                <label><input type="radio" name="role" value="tecnologia" /> <span>Construir tecnología</span></label>
-                <label><input type="radio" name="role" value="organizar" /> <span>Organizar una comunidad</span></label>
-                <label><input type="radio" name="role" value="informarme" checked /> <span>Mantenerme informado</span></label>
-              </div>
-              <button class="button button-primary button-full" type="button" data-finish-signup>Terminar</button>
-            </div>
-
-            <div class="form-step form-success" data-form-step="success" aria-live="polite">
-              <img src="assets/sol-de-las-republicas.png" alt="" />
-              <h3>Gracias por dar el primer paso.</h3>
-              <p>En la versión pública conectaremos este formulario a una lista con consentimiento verificable.</p>
-              <button class="text-link reset-form" type="button">Volver al formulario</button>
-            </div>
-          </form>
-        </div>
-      </section>
     </main>
 
     <div class="project-drawer" data-project-drawer aria-hidden="true">

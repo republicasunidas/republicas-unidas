@@ -10,6 +10,8 @@
 
 **Paquete final:** [`assets/social/pub-001-carousel/`](../../assets/social/pub-001-carousel/)
 
+**Adaptación para Threads:** [`threads.md`](threads.md)
+
 ## Objetivo
 
 Dar una imagen mental clara: Hispanoamérica ya cuenta con mecanismos de integración que producen acuerdos, normas, derechos y servicios. El próximo paso de RRUU es hacerlos visibles, comparar su implementación y conectar brechas con precedentes y personas capaces de actuar.

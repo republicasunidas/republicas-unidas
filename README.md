@@ -32,7 +32,7 @@ Después visita `http://localhost:8080`.
 - Flujo de participación y páginas de confirmación preparadas para una lista con doble consentimiento.
 - Diseño responsive y preferencias de movimiento reducido.
 
-El formulario de inscripción permanece demostrativo hasta conectar el identificador del formulario institucional de MailerLite. La arquitectura, los textos, las bajas y la migración se documentan en [Lista de correo](MAILING.md), y la explicación pública está disponible en [Privacidad](privacidad/).
+El formulario de inscripción está conectado a MailerLite con consentimiento explícito, reCAPTCHA y doble confirmación. La arquitectura, los textos, las bajas y la migración se documentan en [Lista de correo](MAILING.md), y la explicación pública está disponible en [Privacidad](privacidad/).
 Las propuestas y los expedientes de proyecto sí funcionan mediante GitHub Issues. Las reacciones públicas son señales provisionales y no constituyen todavía votos vinculantes.
 
 ## Evolución sugerida para el registro de proyectos

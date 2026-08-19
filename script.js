@@ -138,20 +138,6 @@ const projects = {
   }
 };
 
-const projectFilters = document.querySelectorAll(".project-filter");
-const registryCards = document.querySelectorAll(".registry-card");
-
-projectFilters.forEach((filter) => {
-  filter.addEventListener("click", () => {
-    projectFilters.forEach((item) => item.classList.remove("is-active"));
-    filter.classList.add("is-active");
-    const category = filter.dataset.filter;
-    registryCards.forEach((card) => {
-      card.classList.toggle("is-hidden", category !== "all" && card.dataset.category !== category);
-    });
-  });
-});
-
 const drawer = document.querySelector("[data-project-drawer]");
 const drawerGithub = document.querySelector("[data-drawer-github]");
 let lastProjectTrigger = null;
@@ -287,33 +273,3 @@ const observer = new IntersectionObserver(
 );
 
 document.querySelectorAll(".reveal").forEach((element) => observer.observe(element));
-
-const form = document.querySelector("#signup-form");
-const email = document.querySelector("#email");
-const country = document.querySelector("#country");
-const firstStep = document.querySelector('[data-form-step="1"]');
-const secondStep = document.querySelector('[data-form-step="2"]');
-const successStep = document.querySelector('[data-form-step="success"]');
-
-form.addEventListener("submit", (event) => {
-  event.preventDefault();
-  if (!email.checkValidity() || !country.value) {
-    email.reportValidity();
-    if (!country.value) country.focus();
-    return;
-  }
-  firstStep.classList.remove("is-active");
-  secondStep.classList.add("is-active");
-});
-
-document.querySelector("[data-finish-signup]").addEventListener("click", () => {
-  secondStep.classList.remove("is-active");
-  successStep.classList.add("is-active");
-});
-
-document.querySelector(".reset-form").addEventListener("click", () => {
-  form.reset();
-  successStep.classList.remove("is-active");
-  firstStep.classList.add("is-active");
-  email.focus();
-});

@@ -2,6 +2,20 @@
 
 Este documento define el sistema mínimo de suscripción. Su objetivo es permitir que una persona reciba novedades sin confundir una suscripción informativa con membresía, derecho a voto o afiliación política.
 
+## Estado operativo
+
+Configurado el 20 de agosto de 2026:
+
+- cuenta institucional de MailerLite: `Republicas Unidas`;
+- dominio remitente `republicasunidas.org` autenticado mediante DKIM, SPF y verificación de dominio;
+- grupo `Comunidad · Sitio web`;
+- formulario incrustado `Lista fundadora · Sitio web`, identificador público `46JKiX`;
+- consentimiento explícito, reCAPTCHA y doble confirmación activos;
+- envío inicial a `/suscripcion/pendiente/` y destino posterior a la confirmación en `/suscripcion/confirmada/`;
+- token de API guardado cifrado fuera del repositorio.
+
+La automatización de bienvenida y una prueba completa de alta, confirmación, bienvenida y baja siguen siendo los próximos controles operativos.
+
 ## Alcance inicial
 
 - Proveedor operativo: MailerLite.
@@ -84,4 +98,3 @@ MailerLite es una dependencia operativa, no el dueño conceptual de la comunidad
 ## Métricas públicas
 
 Se pueden publicar cifras agregadas como solicitudes, confirmaciones, bajas y tasa de confirmación. Nunca se publican correos, identificadores individuales, aperturas por persona ni perfiles de comportamiento.
-

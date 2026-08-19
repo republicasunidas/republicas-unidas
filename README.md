@@ -2,6 +2,8 @@
 
 Prototipo estático y responsive para explorar la primera identidad y narrativa pública de Repúblicas Unidas.
 
+**Sitio público provisional:** https://republicasunidas.github.io/republicas-unidas/
+
 ## Abrir
 
 Abre `index.html` directamente en un navegador o sirve esta carpeta localmente:

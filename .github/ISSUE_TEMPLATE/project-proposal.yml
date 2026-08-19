@@ -1,0 +1,52 @@
+name: Propuesta de proyecto
+description: Registrar un problema regional para revisión pública
+title: "Propuesta: "
+labels:
+  - propuesta
+body:
+  - type: markdown
+    attributes:
+      value: |
+        No necesitas traer una solución terminada. Describe el problema y la evidencia que permitiría comprobarlo.
+  - type: input
+    id: name
+    attributes:
+      label: Nombre provisional
+      placeholder: Pasaporte regional de habilidades
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema regional
+      description: ¿Qué ocurre, a quién afecta y por qué requiere cooperación entre repúblicas?
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Lugar observado
+      placeholder: País, ciudad o corredor regional
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidencia disponible
+      description: Incluye fuentes, experiencias directas o datos que puedan verificarse.
+    validations:
+      required: true
+  - type: textarea
+    id: first-step
+    attributes:
+      label: Primer experimento posible
+      description: ¿Cuál sería el paso más pequeño que permitiría aprender algo útil?
+  - type: checkboxes
+    id: principles
+    attributes:
+      label: Compromisos
+      options:
+        - label: Esta propuesta respeta la democracia, la libertad individual, la privacidad y la unión voluntaria.
+          required: true
+        - label: Comprendo que registrar una propuesta no significa que haya sido aprobada.
+          required: true

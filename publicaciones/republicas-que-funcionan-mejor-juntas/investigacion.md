@@ -38,6 +38,7 @@ La publicación no intenta enumerar toda la cooperación regional. Compara cinco
 - **“Hay varias capas que se superponen”** resume la pertenencia simultánea de países a mecanismos con objetivos y ámbitos distintos.
 - **“La superposición puede servir de puente o multiplicar reglas”** es una hipótesis que debe medirse mediante casos concretos.
 - **“Primero hacer visible el sistema; después mejorarlo”** es el método elegido por RRUU, no una conclusión obligatoria de las fuentes.
+- **“RRUU como integrador común del ecosistema”** es una propuesta de función: dar visibilidad, ordenar conocimiento y facilitar conexiones sin atribuirse autoridad sobre las instituciones descritas.
 - La comparación entre **amplitud, profundidad y ejecución** es una herramienta de lectura creada para esta publicación.
 
 ## Mecanismos todavía por cartografiar

@@ -42,13 +42,13 @@ Permite acuerdos a ritmos diferentes y mantiene como horizonte un mercado común
 
 Tus derechos, requisitos y rutas cambian según el país, el tema y el mecanismo.
 
-### 6 · La invitación
+### 6 · El lugar de RRUU
 
-**Ayúdanos a completar el mapa.**
+**Hacer visible. Identificar. Conectar.**
 
-¿Qué organización, iniciativa o persona deberíamos investigar?
+Una capa común para que las iniciativas se conozcan, las personas las encuentren y los proyectos relacionados puedan colaborar.
 
-Lee la guía y aporta una fuente en **republicasunidas.org**.
+¿Qué organización, iniciativa o persona deberíamos añadir? Lee la guía y aporta una fuente en **republicasunidas.org**.
 
 ## Pie de foto
 
@@ -60,7 +60,7 @@ ALADI, la Comunidad Andina, MERCOSUR, la integración centroamericana y la Alian
 
 El problema es que no cubren a las mismas personas ni forman una experiencia común fácil de entender y usar.
 
-Nuestro primer trabajo será mapear esa arquitectura: organizaciones, iniciativas, personas, países, datos y las relaciones entre ellos. Solo después podremos reconocer qué falta y qué solución concreta vale la pena construir.
+Ahí puede empezar RRUU: no como otra institución que compite con las existentes, sino como una capa común que da visibilidad, identifica y conecta. Nuestro primer trabajo será mapear esa arquitectura —organizaciones, iniciativas, personas, países, datos y relaciones—, acercar la atención hacia lo que ya funciona y revelar qué conexiones o soluciones todavía faltan.
 
 Esta es una guía inicial, no una lista completa. ¿Qué pieza nos falta?
 

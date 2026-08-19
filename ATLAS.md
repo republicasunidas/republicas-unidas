@@ -2,9 +2,9 @@
 
 ## Propósito
 
-Construir una base pública, verificable y conectada sobre quién impulsa la integración, qué se está haciendo, dónde ocurre y cómo se relacionan sus partes. El Atlas permitirá investigar, descubrir vacíos, comparar países y convertir conocimiento disperso en proyectos útiles.
+Construir la capa común que hoy falta entre quienes trabajan por la integración: una base pública, verificable y conectada sobre quién la impulsa, qué se está haciendo, dónde ocurre y cómo se relacionan sus partes. El Atlas permitirá dar visibilidad, investigar, descubrir vacíos, comparar países, facilitar conexiones y convertir conocimiento disperso en proyectos útiles.
 
-No comienza como una gran plataforma. Comienza como un registro pequeño y bien documentado que pueda crecer sin perder la procedencia de cada afirmación.
+RRUU no pretende sustituir a las instituciones existentes ni hablar en su nombre. Comienza como un integrador abierto de conocimiento, personas y proyectos: un registro pequeño y bien documentado que pueda crecer sin perder la procedencia de cada afirmación.
 
 ## Qué registramos
 
